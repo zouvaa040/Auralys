@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Putaran 4.3.4, bagian D: sampul playlist dan streak di widget layar utama. -->
+<resources>
+    <string name="auralys434_cover_not_changed">Sampul tidak dapat diganti. Coba lagi.</string>
+    <string name="auralys434_widget_show_streak">Tampilkan streak</string>
+    <plurals name="auralys434_widget_streak_desc">
+        <item quantity="other">Streak: %d hari</item>
+    </plurals>
+</resources>

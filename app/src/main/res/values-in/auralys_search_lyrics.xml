@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hasil pencarian -->
+    <string name="search_music_only">Sembunyikan video di hasil pencarian</string>
+    <!-- Pilihan sumber pencarian -->
+    <string name="search_source_youtube">YouTube</string>
+    <string name="search_source_device">Perangkat</string>
+    <string name="search_device">Cari di perangkat…</string>
+    <string name="search_device_hint">Ketik untuk mencari lagu di perangkat</string>
+    <!-- Penyedia lirik -->
+    <string name="enable_simpmusic">Aktifkan SimpMusic</string>
+    <string name="enable_simpmusic_desc">Lirik komunitas yang cocok dengan video YouTube yang sama</string>
+    <string name="enable_bini_lyrics">Aktifkan BiniLyrics</string>
+    <string name="enable_bini_lyrics_desc">Lirik sinkron per suku kata, dicocokkan dengan judul, artis, dan durasi</string>
+    <string name="enable_lrc_red">Aktifkan lrc.red</string>
+    <string name="enable_lrc_red_desc">Lirik sinkron per suku kata, hanya versi yang sama persis</string>
+    <string name="enable_unison">Aktifkan Unison</string>
+    <string name="enable_unison_desc">Database lirik dari komunitas</string>
+</resources>

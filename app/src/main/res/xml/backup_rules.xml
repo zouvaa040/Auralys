@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude
+        domain="file"
+        path="./exoplayer" />
+    <exclude
+        domain="file"
+        path="./download" />
+    <exclude
+        domain="database"
+        path="exoplayer_internal.db" />
+    <!-- 4.3.4: the poster's sticker library (up to 60 PNGs of 1024 px) and the preprocessed YouTube players would eat the
+         25 MB Auto Backup quota; past it Android backs up nothing of the app (settings and database included). -->
+    <exclude
+        domain="file"
+        path="./poster_stickers" />
+    <exclude
+        domain="file"
+        path="./innertubex_ejs" />
+    <!-- Spotify sign-in (sp_dc = the whole account session): never in a backup. Kept in its own file, not the DataStore. -->
+    <exclude
+        domain="sharedpref"
+        path="auralys_spotify_auth.xml" />
+    <!-- The web view's own data (cookies, web storage): the Spotify sign-in is written there as plain text for the web player,
+         so a copy of it must never be backed up either. Relative to the app's data directory. -->
+    <exclude
+        domain="root"
+        path="app_webview" />
+</full-backup-content>

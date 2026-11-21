@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auralys_vibe_title">Sound style</string>
+    <string name="auralys_vibe_desc">Sped up, slowed + reverb, lo-fi, 8D and more</string>
+    <string name="auralys_vibe_normal">Normal</string>
+    <string name="auralys_vibe_normal_desc">The song as it is</string>
+    <string name="auralys_vibe_sped_up">Sped up</string>
+    <string name="auralys_vibe_sped_up_desc">Faster and higher, like the sped up versions</string>
+    <string name="auralys_vibe_slowed">Slowed + reverb</string>
+    <string name="auralys_vibe_slowed_desc">Slower and lower, with a soft echo</string>
+    <string name="auralys_vibe_nightcore">Nightcore</string>
+    <string name="auralys_vibe_nightcore_desc">Much faster and higher, 1.4x</string>
+    <string name="auralys_vibe_lofi">Lo-fi</string>
+    <string name="auralys_vibe_lofi_desc">Warm and mellow, a little slower, with a light echo</string>
+    <string name="auralys_vibe_8d">8D</string>
+    <string name="auralys_vibe_8d_desc">The sound circles around your head. Best with headphones</string>
+    <string name="auralys_vibe_concert">Concert</string>
+    <string name="auralys_vibe_concert_desc">The echo of a big hall</string>
+</resources>

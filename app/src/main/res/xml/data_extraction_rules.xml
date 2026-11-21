@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Sample data extraction rules file; uncomment and customize as necessary.
+   See https://developer.android.com/about/versions/12/backup-restore#xml-changes
+   for details.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude
+            domain="file"
+            path="./exoplayer" />
+        <exclude
+            domain="file"
+            path="./download" />
+        <exclude
+            domain="database"
+            path="exoplayer_internal.db" />
+        <!-- 4.3.4: poster sticker library and preprocessed YouTube players (25 MB backup quota) -->
+        <exclude
+            domain="file"
+            path="./poster_stickers" />
+        <exclude
+            domain="file"
+            path="./innertubex_ejs" />
+        <!-- Spotify sign-in (sp_dc = the whole account session): never in a backup or a device transfer -->
+        <exclude
+            domain="sharedpref"
+            path="auralys_spotify_auth.xml" />
+        <!-- the web view's own data holds a plain copy of the Spotify sign-in for the web player: never backed up -->
+        <exclude
+            domain="root"
+            path="app_webview" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude
+            domain="file"
+            path="./exoplayer" />
+        <exclude
+            domain="file"
+            path="./download" />
+        <exclude
+            domain="database"
+            path="exoplayer_internal.db" />
+        <!-- 4.3.4: poster sticker library and preprocessed YouTube players (25 MB backup quota) -->
+        <exclude
+            domain="file"
+            path="./poster_stickers" />
+        <exclude
+            domain="file"
+            path="./innertubex_ejs" />
+        <exclude
+            domain="sharedpref"
+            path="auralys_spotify_auth.xml" />
+        <exclude
+            domain="root"
+            path="app_webview" />
+    </device-transfer>
+</data-extraction-rules>

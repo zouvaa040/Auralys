@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 12+: the widget lays itself out for any size, so it may shrink to about 1x1. -->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="110dp"
+    android:minHeight="250dp"
+    android:minResizeWidth="40dp"
+    android:minResizeHeight="40dp"
+    android:targetCellWidth="2"
+    android:targetCellHeight="4"
+    android:updatePeriodMillis="0"
+    android:previewImage="@drawable/aw_preview_tall"
+    android:initialLayout="@layout/aw_flex"
+    android:description="@string/aw_description"
+    android:configure="com.metrolist.music.widget.AuralysWidgetConfigActivity"
+    android:widgetFeatures="reconfigurable"
+    android:widgetCategory="home_screen"
+    android:resizeMode="horizontal|vertical" />

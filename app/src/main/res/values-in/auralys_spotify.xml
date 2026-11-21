@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Akun Spotify: playlist dan lagu yang disukai tampil di Pustaka (lagu dicocokkan ke YouTube Music) -->
+    <string name="spotify_title">Spotify</string>
+    <string name="spotify_connect">Hubungkan Spotify</string>
+    <!-- baris di bawah "Hubungkan Spotify" di samping masuk ke YouTube Music (tab Kamu dan Pengaturan) -->
+    <string name="spotify_connect_desc">Playlist dan lagu disukai di Pustaka</string>
+    <string name="spotify_settings_intro">Playlist dan lagu yang disukai di Spotify tampil di Pustaka. Lagu tetap diputar lewat YouTube Music.</string>
+    <string name="spotify_settings_privacy">Data masuk disimpan di HP ini dan tidak ikut cadangan.</string>
+    <string name="spotify_connected">Terhubung</string>
+    <string name="spotify_connected_as">Terhubung sebagai %1$s</string>
+    <string name="spotify_disconnect">Putuskan</string>
+    <string name="spotify_disconnect_title">Putuskan Spotify?</string>
+    <string name="spotify_disconnect_message">Playlist Spotify tidak lagi tampil di Pustaka. Playlist yang sudah disimpan tetap ada.</string>
+    <string name="spotify_login_title">Masuk ke Spotify</string>
+    <string name="spotify_login_failed">Gagal menyimpan data masuk</string>
+
+    <string name="spotify_liked">Lagu yang disukai</string>
+    <string name="spotify_liked_saved_name">Lagu yang disukai (Spotify)</string>
+    <string name="spotify_library_empty">Tidak ada playlist di akun ini</string>
+    <string name="spotify_empty_playlist">Playlist ini tidak berisi lagu</string>
+    <string name="spotify_reconnect">Hubungkan lagi</string>
+
+    <string name="spotify_err_expired">Sesi Spotify sudah berakhir. Hubungkan lagi.</string>
+    <string name="spotify_err_token">Tidak dapat masuk ke Spotify. Coba lagi.</string>
+    <string name="spotify_err_rate">Spotify sedang sibuk. Coba lagi sebentar lagi.</string>
+    <string name="spotify_err_changed">Spotify mengubah layanannya. Coba lagi nanti.</string>
+    <string name="spotify_err_network">Tidak ada koneksi ke Spotify.</string>
+    <string name="spotify_err_other">Tidak dapat memuat dari Spotify.</string>
+
+    <string name="spotify_matching">Mencocokkan %1$d dari %2$d</string>
+    <string name="spotify_not_found">Tidak ditemukan di YouTube Music</string>
+    <string name="spotify_missing_count">%1$d tidak ditemukan</string>
+    <string name="spotify_match_again">Cocokkan lagi</string>
+    <string name="spotify_save">Simpan ke Pustaka</string>
+    <string name="spotify_saving">Menyimpan</string>
+    <string name="spotify_saved">Disimpan ke Pustaka</string>
+    <string name="spotify_open_saved">Buka di Pustaka</string>
+    <string name="spotify_save_failed">Gagal menyimpan</string>
+    <string name="spotify_truncated">Hanya %1$d lagu pertama yang ditampilkan</string>
+
+    <!-- Halaman Spotify: bagian atas dan tiga manfaatnya (yang pertama spotify_connect_desc, yang terakhir spotify_canvas_title) -->
+    <string name="spotify_hero_sub">Bawa playlist Spotify ke Auralys</string>
+    <string name="spotify_benefit_play">Lagu tetap diputar lewat YouTube Music</string>
+
+    <!-- Kartu akun (tab Kamu dan Pengaturan), satu untuk tiap akun -->
+    <string name="acct_pitch_ytm">Sinkronkan pustaka dan playlist</string>
+    <string name="acct_pitch_spotify">Playlist tampil di Pustaka</string>
+    <string name="acct_action_login">Masuk</string>
+    <string name="acct_action_connect">Hubungkan</string>
+    <string name="acct_action_manage">Kelola</string>
+    <string name="acct_connected_as">Terhubung sebagai %1$s</string>
+
+    <!-- Layar masuk (YouTube Music dan Spotify memakai yang sama) -->
+    <string name="login_privacy_google">Masuk lewat halaman resmi Google. Auralys tidak melihat kata sandimu.</string>
+    <string name="login_privacy_spotify">Masuk lewat halaman resmi Spotify. Auralys tidak melihat kata sandimu.</string>
+    <string name="login_loading">Membuka halaman masuk</string>
+    <string name="login_connecting">Menghubungkan</string>
+    <string name="login_offline_title">Tidak ada koneksi</string>
+    <string name="login_offline_message">Periksa koneksi internet, lalu coba lagi.</string>
+</resources>

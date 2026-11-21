@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auralys_app_icon">Gaya ikon aplikasi</string>
+    <string name="auralys_app_icon_desc">Pilih tampilan ikon di layar utama</string>
+    <string name="auralys_app_icon_note">Launcher bisa butuh beberapa detik untuk menampilkan ikon baru.</string>
+    <string name="auralys_icon_default">Bawaan</string>
+    <string name="auralys_icon_night">Malam</string>
+    <string name="auralys_icon_glass">Kaca</string>
+    <string name="auralys_icon_gold">Emas</string>
+    <string name="auralys_icon_forest">Hutan</string>
+    <string name="auralys_icon_ocean">Samudra</string>
+    <string name="auralys_icon_senja">Senja</string>
+    <string name="auralys_icon_piringan">Piringan</string>
+    <string name="auralys_icon_neon">Neon</string>
+    <string name="auralys_icon_gema">Gema</string>
+    <string name="auralys_icon_bintang">Bintang</string>
+    <string name="auralys_icon_aurora">Aurora</string>
+    <string name="auralys_icon_sakura">Sakura</string>
+    <string name="auralys_icon_mono">Mono</string>
+    <string name="auralys_icon_kopi">Kopi</string>
+    <string name="auralys_icon_ruby">Ruby</string>
+    <string name="auralys_icon_matcha">Matcha</string>
+    <string name="auralys_icon_lavender">Lavender</string>
+    <string name="auralys_icon_mewah">Mewah</string>
+    <string name="auralys_icon_cair">Cair</string>
+</resources>

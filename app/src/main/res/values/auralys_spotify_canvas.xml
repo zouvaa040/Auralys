@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spotify Canvas as animated covers -->
+    <string name="spotify_canvas_title">Animated covers from Spotify</string>
+    <string name="spotify_canvas_connect_hint">Connect Spotify in the You tab</string>
+</resources>

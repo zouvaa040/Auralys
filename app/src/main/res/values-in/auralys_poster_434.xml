@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Poster lagu, round 4.3.4 workstream F. Same names as values/auralys_poster_434.xml; wording from the Windows app where it exists. -->
+<resources>
+    <string name="poster_title">Poster lagu</string>
+    <string name="poster_make">Buat poster</string>
+    <string name="poster_make_desc">Foto dengan sampai 5 lagu</string>
+    <string name="poster_pick_title">Pilih lagu untuk poster</string>
+    <string name="poster_count">%1$d dari %2$d</string>
+    <string name="poster_pick_first">Pilih %d pertama</string>
+    <string name="poster_next">Lanjut</string>
+    <string name="poster_no_songs">Belum ada lagu untuk poster</string>
+    <string name="poster_save">Simpan</string>
+    <string name="poster_saving">Menyimpan…</string>
+    <string name="poster_saved">Disimpan</string>
+    <string name="poster_save_failed">Poster tidak bisa disimpan.</string>
+    <string name="poster_share">Bagikan</string>
+    <string name="poster_undo">Urungkan</string>
+    <string name="poster_back">Kembali</string>
+    <string name="poster_leave_title">Keluar dari poster?</string>
+    <string name="poster_leave_text">Perubahan belum disimpan.</string>
+    <string name="poster_stay">Tetap di sini</string>
+    <string name="poster_leave">Keluar</string>
+    <string name="poster_storage_denied">Izin penyimpanan diperlukan untuk menyimpan.</string>
+
+    <string name="poster_tab_photo">Foto</string>
+    <string name="poster_tab_cards">Kartu</string>
+    <string name="poster_tab_card_style">Gaya kartu</string>
+    <string name="poster_tab_effects">Efek</string>
+    <string name="poster_tab_stickers">Stiker</string>
+    <string name="poster_tab_songs">Lagu</string>
+
+    <string name="poster_photo_add">Pilih foto</string>
+    <string name="poster_photo_change">Ganti foto</string>
+    <string name="poster_photo_remove">Hapus foto</string>
+    <string name="poster_cutting">Memotong latar…</string>
+    <string name="poster_cancel">Batal</string>
+    <string name="poster_cut_none">Subjek tidak ditemukan di foto ini.</string>
+    <string name="poster_cut_failed">Potong latar gagal.</string>
+    <string name="poster_cut_memory">Memori tidak cukup untuk foto ini. Coba foto yang lebih kecil.</string>
+    <string name="poster_photo_unreadable">Foto tidak bisa dibaca.</string>
+    <string name="poster_size">Ukuran</string>
+    <string name="poster_move_x">Geser kiri-kanan</string>
+    <string name="poster_move_y">Geser atas-bawah</string>
+    <string name="poster_fill">Isi layar</string>
+    <string name="poster_fit">Muat penuh</string>
+    <string name="poster_rotate">Putar</string>
+    <string name="poster_mirror">Cermin</string>
+    <string name="poster_background">Latar</string>
+    <string name="poster_dark">Gelap</string>
+    <string name="poster_blur">Kabur</string>
+    <string name="poster_card_light">Cahaya kartu</string>
+    <string name="poster_light_color">Warna cahaya</string>
+    <string name="poster_auto">Otomatis</string>
+    <string name="poster_glow_warm_white">Putih hangat</string>
+    <string name="poster_glow_gold">Emas</string>
+    <string name="poster_glow_orange">Jingga</string>
+    <string name="poster_glow_pink">Merah muda</string>
+    <string name="poster_glow_cool_white">Putih dingin</string>
+
+    <string name="poster_layout">Susunan</string>
+    <string name="poster_layout_orbit">Orbit</string>
+    <string name="poster_layout_stack">Tumpuk</string>
+    <string name="poster_layout_row">Deret</string>
+    <string name="poster_layout_column">Kolom</string>
+    <string name="poster_tilt_flat">Miring datar</string>
+    <string name="poster_tilt_up">Miring tegak</string>
+    <string name="poster_lift">Angkat</string>
+    <string name="poster_card_reset">Atur ulang kartu</string>
+    <string name="poster_card_hint">Ketuk kartu di gambar.</string>
+
+    <string name="poster_glass">Kaca</string>
+    <string name="poster_glass_smoke">Kaca asap</string>
+    <string name="poster_glass_clear">Kaca bening</string>
+    <string name="poster_glass_milk">Kaca susu</string>
+    <string name="poster_glass_dark">Gelap</string>
+    <string name="poster_perspective">Perspektif</string>
+    <string name="poster_thickness">Ketebalan</string>
+    <string name="poster_frost">Kaca buram</string>
+    <string name="poster_opacity">Kekeruhan</string>
+    <string name="poster_corner">Sudut</string>
+    <string name="poster_reflection">Pantulan</string>
+    <string name="poster_dof">Kedalaman bidang</string>
+    <string name="poster_shadow">Bayangan</string>
+    <string name="poster_strength">Kekuatan</string>
+    <string name="poster_distance">Jarak</string>
+    <string name="poster_direction">Arah</string>
+    <string name="poster_tone_neutral">Netral</string>
+    <string name="poster_tone_warm">Hangat</string>
+    <string name="poster_tone_cover">Warna sampul</string>
+    <string name="poster_style_reset">Atur ulang gaya kartu</string>
+
+    <string name="poster_look">Gaya</string>
+    <string name="poster_preset_cinema">Sinema</string>
+    <string name="poster_preset_film">Film lawas</string>
+    <string name="poster_preset_clean">Bersih</string>
+    <string name="poster_colour">Warna</string>
+    <string name="poster_grade_original">Asli</string>
+    <string name="poster_grade_warm">Hangat</string>
+    <string name="poster_grade_cool">Dingin</string>
+    <string name="poster_grade_neon">Neon</string>
+    <string name="poster_grade_film">Film</string>
+    <string name="poster_fx_leak">Cahaya bocor</string>
+    <string name="poster_fx_streak">Kilau lensa</string>
+    <string name="poster_fx_stars">Bintang</string>
+    <string name="poster_fx_bloom">Pendar</string>
+    <string name="poster_fx_grain">Butiran film</string>
+    <string name="poster_fx_rim">Tepi kartu</string>
+
+    <string name="poster_sticker_add">Tambah stiker</string>
+    <string name="poster_sticker_bird">Burung</string>
+    <string name="poster_sticker_glint">Kilau</string>
+    <string name="poster_my_stickers">Stiker saya</string>
+    <string name="poster_none_yet">Belum ada.</string>
+    <string name="poster_duplicate">Gandakan</string>
+    <string name="poster_delete">Hapus</string>
+    <string name="poster_sticker_limit">Paling banyak %d stiker.</string>
+    <string name="poster_sticker_unreadable">Stiker tidak bisa dibuka.</string>
+    <string name="poster_sticker_remove_lib">Hapus dari stiker saya</string>
+
+    <string name="poster_up">Naik</string>
+    <string name="poster_down">Turun</string>
+    <string name="poster_remove_song">Hapus dari poster</string>
+</resources>

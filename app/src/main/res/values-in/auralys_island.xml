@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dynamic_island">Dynamic Island</string>
+    <string name="dynamic_island_desc">Kapsul melayang di atas aplikasi lain saat musik diputar</string>
+    <string name="dynamic_island_enable">Tampilkan Dynamic Island</string>
+    <string name="dynamic_island_enable_desc">Ditampilkan di bagian atas layar saat Auralys ditinggalkan selama musik diputar</string>
+    <string name="dynamic_island_permission">Izinkan tampil di atas aplikasi lain</string>
+    <string name="dynamic_island_permission_granted">Diizinkan</string>
+    <string name="dynamic_island_permission_missing">Belum diizinkan. Ketuk untuk membuka setelan sistem</string>
+    <string name="dynamic_island_preview">Pratinjau</string>
+    <string name="dynamic_island_preview_hint">Ketuk pratinjau untuk melihat kartu yang diperluas</string>
+    <string name="dynamic_island_position">Posisi dan ukuran</string>
+    <string name="dynamic_island_horizontal">Posisi horizontal</string>
+    <string name="dynamic_island_vertical">Jarak dari bilah status</string>
+    <string name="dynamic_island_vertical_value">%1$d dp</string>
+    <string name="dynamic_island_size">Ukuran</string>
+    <string name="dynamic_island_size_small">Kecil</string>
+    <string name="dynamic_island_size_normal">Normal</string>
+    <string name="dynamic_island_size_large">Besar</string>
+    <string name="dynamic_island_center">Tengah</string>
+    <string name="dynamic_island_left">%1$d%% ke kiri</string>
+    <string name="dynamic_island_right">%1$d%% ke kanan</string>
+    <string name="dynamic_island_reset">Atur ulang posisi</string>
+    <string name="dynamic_island_reset_desc">Dikembalikan ke tengah, tepat di bawah bilah status</string>
+    <string name="dynamic_island_gestures">Gestur</string>
+    <string name="dynamic_island_open_app">Buka Auralys</string>
+    <string name="dynamic_island_sample_title">Judul lagu</string>
+    <string name="dynamic_island_sample_artist">Artis</string>
+</resources>

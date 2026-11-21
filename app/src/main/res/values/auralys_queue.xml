@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auralys_queue_clear">Clear queue</string>
+    <string name="auralys_queue_clear_message">Every song in the queue except the one playing now will be removed.</string>
+    <string name="auralys_queue_clear_confirm">Clear</string>
+    <string name="auralys_queue_clear_cancel">Cancel</string>
+    <string name="auralys_queue_played_next">Playing next</string>
+    <string name="auralys_queue_is_current">Playing now</string>
+    <string name="auralys_queue_already_next">Already next</string>
+    <string name="auralys_queue_removed">\"%1$s\" removed from the queue</string>
+    <string name="auralys_queue_locked">Queue is locked</string>
+    <string name="auralys_queue_unlock">Unlock</string>
+</resources>

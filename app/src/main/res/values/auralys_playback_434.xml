@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Round 4.3.4, workstream A (playback reliability): short messages when the player gives up on a song. -->
+<resources>
+    <string name="auralys_playback_skipped">This song can\'t be played, going to the next one</string>
+    <string name="auralys_playback_stopped_network">Playback stopped because the connection is too slow. Tap play to try again.</string>
+    <string name="auralys_playback_stopped_songs">Several songs in a row could not be played. Check the connection, then tap play.</string>
+    <string name="auralys_playback_stopped_audio">The phone\'s audio output is not responding. Tap play to try again.</string>
+    <string name="auralys_playback_song_failed">This song can\'t be played right now</string>
+    <string name="auralys_player_not_ready">The player is still starting, try again</string>
+    <string name="auralys_playback_stopped_unreachable">Can\'t reach the server. Playback continues when the connection is back.</string>
+    <string name="auralys_download_repaired">This download was damaged. The song plays online and is downloaded again.</string>
+    <string name="auralys_playing_alternative">Playing this song from another official upload</string>
+    <string name="auralys_song_no_stream">YouTube gives no audio for this song.</string>
+    <string name="auralys_song_age_restricted">This song is age-restricted. Sign in to YouTube to play it.</string>
+</resources>

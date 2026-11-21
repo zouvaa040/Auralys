@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ekualiser mudah -->
+    <string name="eq_use">Pakai ekualiser</string>
+    <string name="eq_status_off">Mati</string>
+    <string name="eq_status_custom">Kustom</string>
+    <string name="eq_status_preset">Preset: %1$s</string>
+    <string name="eq_status_profile">Profil: %1$s</string>
+    <string name="eq_section_presets">Preset</string>
+    <string name="eq_section_tone">Nada</string>
+    <string name="eq_tone_bass">Bass</string>
+    <string name="eq_tone_vocal">Vokal</string>
+    <string name="eq_tone_treble">Treble</string>
+    <string name="eq_db_value">%1$s dB</string>
+    <string name="eq_headroom">Volume turun %1$s dB agar suara tidak pecah</string>
+    <string name="eq_fine_tune">Atur per frekuensi</string>
+    <string name="eq_show">Tampilkan</string>
+    <string name="eq_hide">Sembunyikan</string>
+    <string name="eq_reset">Setel ulang</string>
+    <string name="eq_save_preset">Simpan sebagai preset</string>
+    <string name="eq_preset_name">Nama preset</string>
+    <string name="eq_delete_preset">Hapus preset ini</string>
+    <string name="eq_delete_preset_confirm">Hapus preset \"%1$s\"?</string>
+    <string name="eq_section_profiles">Profil headphone dan file</string>
+    <string name="eq_profiles_empty">Belum ada profil. Tambahkan lewat + (AutoEQ atau file).</string>
+    <string name="eq_band_description">%1$s Hz</string>
+
+    <!-- Nama preset -->
+    <string name="eq_preset_flat">Datar</string>
+    <string name="eq_preset_bass">Bass kuat</string>
+    <string name="eq_preset_treble">Treble kuat</string>
+    <string name="eq_preset_vocal">Vokal jelas</string>
+    <string name="eq_preset_pop">Pop</string>
+    <string name="eq_preset_rock">Rock</string>
+    <string name="eq_preset_jazz">Jazz</string>
+    <string name="eq_preset_classic">Klasik</string>
+    <string name="eq_preset_dance">Dance</string>
+    <string name="eq_preset_hiphop">Hip-hop</string>
+    <string name="eq_preset_acoustic">Akustik</string>
+    <string name="eq_preset_loudness">Volume kecil</string>
+</resources>

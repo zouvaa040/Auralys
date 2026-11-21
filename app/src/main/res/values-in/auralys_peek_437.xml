@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="peek_like">Suka</string>
+    <string name="peek_unlike">Batal suka</string>
+    <string name="peek_more">Lainnya…</string>
+</resources>

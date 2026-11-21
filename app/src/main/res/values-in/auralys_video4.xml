@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video4_status_available">tersedia</string>
+    <string name="video4_status_checking">sedang dicari</string>
+    <string name="video4_status_nomatch">tidak ada klip yang cocok</string>
+    <string name="video4_status_failed">gagal: %1$s</string>
+    <string name="video4_status_failed_retry">gagal: %1$s (mencoba lagi)</string>
+    <string name="video4_status_cooldown">dimatikan sementara (coba lagi dalam %1$d detik)</string>
+    <string name="video4_status_off">dimatikan di pengaturan</string>
+    <string name="video4_status_unknown">belum dicek</string>
+    <string name="video4_reason_offline">tidak ada jaringan</string>
+    <string name="video4_reason_timeout">waktu habis</string>
+    <string name="video4_reason_stall">gambar tidak mulai</string>
+    <string name="video4_reason_no_format">tidak ada format video</string>
+    <string name="video4_reason_unplayable">klip tidak bisa diputar</string>
+    <string name="video4_reason_age_geo">dibatasi usia atau wilayah</string>
+    <string name="video4_reason_codec">perangkat tidak mendukung format</string>
+    <string name="video4_reason_bot_check">pemeriksaan keamanan YouTube</string>
+    <string name="video4_reason_forbidden">ditolak server (403)</string>
+    <string name="video4_reason_attestation">perlu verifikasi YouTube</string>
+    <string name="video4_reason_sabr">kesalahan aliran</string>
+    <string name="video4_reason_decoder">dekoder gagal</string>
+    <string name="video4_reason_unknown">tidak diketahui</string>
+</resources>

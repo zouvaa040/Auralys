@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aw_previous">Previous</string>
+    <string name="aw_next">Next</string>
+    <string name="aw_config_title">Widget settings</string>
+    <string name="aw_config_style">Style</string>
+    <string name="aw_style_glass">Glass</string>
+    <string name="aw_style_dark">Dark</string>
+    <string name="aw_style_light">Light</string>
+    <string name="aw_style_cover">Cover colour</string>
+    <string name="aw_config_opacity">Opacity: %1$d%%</string>
+    <string name="aw_config_cover_shape">Cover shape</string>
+    <string name="aw_shape_rounded">Rounded</string>
+    <string name="aw_shape_circle">Circle</string>
+    <string name="aw_config_show_progress">Show progress bar</string>
+    <string name="aw_config_show_like">Show like button</string>
+    <string name="aw_config_done">Done</string>
+    <string name="aw_sample_title">Song title</string>
+    <string name="aw_sample_artist">Artist name</string>
+    <string name="aw_description">Now playing with controls. Pick a look: glass, dark, light or cover colour.</string>
+    <string name="aw_config_tint">Accent colour</string>
+    <string name="aw_tint_auto">From the cover</string>
+    <string name="aw_config_shine">Glass shine: %1$d%%</string>
+    <string name="aw_shape_square">Square</string>
+    <string name="aw_config_text_size">Text size</string>
+    <string name="aw_size_small">Small</string>
+    <string name="aw_size_medium">Medium</string>
+    <string name="aw_size_large">Large</string>
+    <string name="aw_config_play_button">Play button</string>
+    <string name="aw_play_filled">Round</string>
+    <string name="aw_play_plain">Plain</string>
+    <string name="aw_config_show_cover">Show cover</string>
+    <string name="aw_config_show_time">Show time</string>
+    <string name="aw_config_show_skip">Show previous and next</string>
+    <string name="aw_style_clear">Clear glass</string>
+    <string name="aw_config_edge">Glass thickness (lens + rim): %1$d%%</string>
+    <string name="aw_config_corner">Corner roundness: %1$d%%</string>
+    <string name="aw_config_frost">Frost (cover blur): %1$d%%</string>
+    <string name="aw_name_wide">Auralys Player 4×2</string>
+    <string name="aw_name_square">Auralys Player 2×2</string>
+    <string name="aw_name_strip">Auralys Player 4×1</string>
+    <string name="aw_name_tall">Auralys Player 2×4</string>
+    <string name="aw_name_tiny">Auralys Player 1×1</string>
+    <string name="aw_config_size_hint">The size comes from the widget you picked in the widget list (4×2, 2×2, 4×1, 2×4 or 1×1). To change it later, long-press the widget and drag its handles.</string>
+</resources>

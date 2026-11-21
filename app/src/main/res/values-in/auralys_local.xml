@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Lagu di perangkat (file audio di HP) -->
+<resources>
+    <string name="local_music_title">Di perangkat</string>
+    <string name="lib_col_local">Lagu di penyimpanan HP</string>
+    <string name="local_unknown_artist">Artis tidak dikenal</string>
+    <string name="local_untitled">Tanpa judul</string>
+    <string name="local_permission_title">Izinkan akses ke lagu di HP</string>
+    <string name="local_permission_body">Auralys perlu izin membaca file audio agar bisa menampilkan dan memutar lagu di HP-mu.</string>
+    <string name="local_permission_blocked">Izin ditolak. Buka pengaturan, lalu izinkan akses ke musik dan audio.</string>
+    <string name="local_permission_grant">Izinkan</string>
+    <string name="local_open_settings">Buka pengaturan</string>
+    <string name="local_scan">Pindai ulang</string>
+    <string name="local_scanning">Memindai… %1$d</string>
+    <string name="local_scan_failed">Pemindaian gagal. Coba lagi.</string>
+    <string name="local_scan_changes">%1$d baru, %2$d dihapus</string>
+    <string name="local_empty">Tidak ada lagu di HP</string>
+</resources>

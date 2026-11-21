@@ -1,3 +1,0 @@
-v13.6.3
-Hotfix: fixed borked lyrics and media controller.
-We apologize for the inconvenience.

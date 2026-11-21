@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auralys_recap_title">Recap</string>
+    <string name="auralys_recap_your_recap">Recap kamu %1$s</string>
+    <string name="auralys_recap_entry_subtitle">Lagu, artis, dan menit teratas</string>
+    <string name="auralys_recap_minutes_listened">menit didengarkan</string>
+    <string name="auralys_recap_songs_count">%1$s lagu</string>
+    <string name="auralys_recap_artists_count">%1$s artis</string>
+    <string name="auralys_recap_this_year">Tahun ini</string>
+    <string name="auralys_recap_last_30_days">30 hari terakhir</string>
+    <string name="auralys_recap_all_time">Sepanjang waktu</string>
+    <string name="auralys_recap_play">Putar Recap</string>
+    <string name="auralys_recap_watch">Tonton Recap</string>
+    <string name="auralys_recap_top_songs">Lagu teratas</string>
+    <string name="auralys_recap_top_artists">Artis teratas</string>
+    <string name="auralys_recap_top_albums">Album teratas</string>
+    <string name="auralys_recap_show_more">Tampilkan lebih banyak</string>
+    <string name="auralys_recap_show_less">Tampilkan lebih sedikit</string>
+    <string name="auralys_recap_minutes_short">%1$s mnt</string>
+    <string name="auralys_recap_empty">Belum ada riwayat dengar untuk periode ini. Putar musik dulu, lalu kembali lagi nanti.</string>
+    <string name="auralys_recap_share">Bagikan Recap</string>
+    <string name="auralys_recap_share_failed">Gambar tidak dapat dibuat</string>
+    <string name="auralys_recap_close">Tutup</string>
+    <string name="auralys_recap_poster_label">AURALYS RECAP</string>
+    <string name="auralys_recap_story_listened_for">Musik diputar selama</string>
+    <string name="auralys_recap_story_minutes">menit</string>
+    <string name="auralys_recap_story_top_song">Lagu teratas</string>
+    <string name="auralys_recap_story_plays">Diputar %1$s kali</string>
+    <string name="auralys_recap_story_top_artist">Artis teratas</string>
+    <string name="auralys_recap_story_minutes_together">%1$s menit didengarkan</string>
+    <string name="auralys_recap_story_top5_songs">5 lagu teratas</string>
+    <string name="auralys_recap_story_top5_artists">5 artis teratas</string>
+    <string name="auralys_recap_story_thanks">Itulah Recap kamu</string>
+    <string name="auralys_recap_story_thanks_sub">Terima kasih sudah mendengarkan bersama Auralys.</string>
+    <string name="auralys_recap_pause">Jeda Recap</string>
+    <string name="auralys_recap_resume">Lanjut Recap</string>
+</resources>

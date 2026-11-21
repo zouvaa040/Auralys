@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video3_mode">Mode video</string>
+    <string name="video3_auto_from_search">Putar video otomatis dari hasil Video</string>
+    <string name="video3_audio">Audio</string>
+    <string name="video3_video">Video</string>
+    <string name="video3_failed">Video tidak dapat diputar</string>
+    <string name="video3_unavailable">Video tidak tersedia</string>
+</resources>

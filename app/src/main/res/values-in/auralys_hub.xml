@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Beranda Pengaturan: pencarian + rak kategori -->
+    <string name="hub_search_hint">Cari pengaturan…</string>
+    <string name="hub_search_clear">Hapus pencarian</string>
+    <string name="hub_search_empty">Tidak ada pengaturan yang cocok</string>
+    <string name="hub_search_empty_hint">Coba kata lain, misalnya “lirik” atau “cache”.</string>
+    <string name="hub_shelf">Semua pengaturan</string>
+    <string name="hub_new_version">Versi baru %1$s</string>
+
+    <string name="hub_cat_player">Suara dan pemutaran</string>
+    <string name="hub_cat_appearance">Tampilan</string>
+    <string name="hub_cat_content">Bahasa dan konten</string>
+    <string name="hub_cat_ai">Lirik dan terjemahan</string>
+    <string name="hub_cat_privacy">Privasi dan riwayat</string>
+    <string name="hub_cat_storage">Penyimpanan</string>
+    <string name="hub_cat_backup">Cadangan dan impor</string>
+    <string name="hub_cat_integrations">Aplikasi terhubung</string>
+    <string name="hub_cat_auto">Android Auto</string>
+    <string name="hub_cat_links">Tautan</string>
+    <string name="hub_cat_update">Pembaruan</string>
+    <string name="hub_cat_about">Tentang Auralys</string>
+
+    <string name="hub_cap_player">Kualitas audio, crossfade, antrean, timer tidur</string>
+    <string name="hub_cap_appearance">Tema, ikon aplikasi, pemutar, lirik, Dynamic Island</string>
+    <string name="hub_cap_content">Bahasa, negara, sumber lirik, proxy</string>
+    <string name="hub_cap_ai">Terjemahan AI, romanisasi</string>
+    <string name="hub_cap_privacy">Riwayat putar dan pencarian, tangkapan layar</string>
+    <string name="hub_cap_storage">Cache lagu dan gambar, unduhan</string>
+    <string name="hub_cap_backup">Cadangkan, pulihkan, impor playlist</string>
+    <string name="hub_cap_integrations">Last.fm, Discord, dengarkan bersama</string>
+    <string name="hub_cap_auto">Playlist dan pencarian di mobil</string>
+    <string name="hub_cap_links">Buka tautan YouTube Music di Auralys</string>
+    <string name="hub_cap_update">Periksa versi terbaru</string>
+    <string name="hub_cap_about">Versi, pembaruan, dan kredit</string>
+
+    <!-- Pustaka -->
+    <string name="lib_tab_all">Semua</string>
+    <string name="lib_collections">Koleksi</string>
+    <string name="lib_col_liked">Lagu yang kamu suka</string>
+    <string name="lib_col_downloaded">Siap diputar tanpa internet</string>
+    <string name="lib_col_cached">Tersimpan otomatis saat diputar</string>
+    <string name="lib_col_top">Yang paling sering kamu putar</string>
+    <string name="lib_col_uploaded">Yang kamu unggah</string>
+    <string name="lib_new_playlist">Playlist baru</string>
+
+    <!-- Nama seksi Beranda -->
+    <string name="home_s_keep">Lanjutkan</string>
+    <string name="home_s_picks">Pilihan buatmu</string>
+    <string name="home_s_gotos">Andalanmu</string>
+    <string name="home_s_fresh">Temuan hari ini</string>
+    <string name="home_s_mixes">Mix untukmu</string>
+    <string name="home_s_forgotten">Hampir terlupa</string>
+    <string name="home_s_similar">Mirip dengan</string>
+    <string name="home_s_community">Pilihan pendengar</string>
+    <string name="home_s_mood">Suasana dan genre</string>
+
+    <!-- Tab Kamu -->
+    <string name="you_title">Kamu</string>
+    <string name="you_section_activity">Aktivitas</string>
+    <string name="you_section_tools">Alat</string>
+    <string name="you_cap_history">Lagu yang baru kamu putar</string>
+    <string name="you_stats_recap">Statistik dan recap</string>
+    <string name="you_cap_stats">Dengaranmu dalam angka, dan recap tahunanmu</string>
+    <string name="you_cap_together">Dengarkan bersama teman, tersinkron</string>
+    <string name="you_recognize">Kenali lagu</string>
+    <string name="you_cap_recognize">Cari tahu lagu yang sedang terdengar di sekitarmu</string>
+    <string name="you_cap_equalizer">Atur suara sesuai seleramu</string>
+    <string name="you_cap_settings">Suara, tampilan, data, dan lainnya</string>
+    <string name="you_cap_about">Versi, pembaruan, dan kredit</string>
+
+    <!-- Tentang: pemberitahuan lisensi -->
+    <string name="home_random">Putar acak</string>
+    <string name="web_update_title">Ada versi baru</string>
+    <string name="web_update_message">Auralys %1$s sudah tersedia. Kamu memakai versi %2$s. Pembaruan membawa perbaikan dan fitur baru.</string>
+    <string name="web_update_now">Update sekarang</string>
+    <string name="web_update_later">Nanti</string>
+    <string name="web_update_check">Periksa pembaruan</string>
+    <string name="web_update_checking">Memeriksa…</string>
+    <string name="web_update_latest">Auralys sudah versi terbaru (%1$s).</string>
+    <string name="web_update_failed">Tidak bisa memeriksa pembaruan. Periksa koneksi internetmu.</string>
+</resources>

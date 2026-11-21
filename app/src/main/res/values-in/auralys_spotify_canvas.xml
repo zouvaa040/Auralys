@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Canvas Spotify sebagai sampul animasi -->
+    <string name="spotify_canvas_title">Sampul animasi dari Spotify</string>
+    <string name="spotify_canvas_connect_hint">Hubungkan Spotify di tab Kamu</string>
+</resources>

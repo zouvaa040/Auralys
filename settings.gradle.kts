@@ -1,29 +1,13 @@
 @file:Suppress("UnstableApiUsage")
 
-val useLocalInnerTubeX = providers.gradleProperty("useLocalInnerTubeX").isPresent
 val useMavenLocalInnerTubeX = providers.gradleProperty("useMavenLocalInnerTubeX").isPresent
-if (useLocalInnerTubeX && useMavenLocalInnerTubeX) {
-    error("-PuseLocalInnerTubeX and -PuseMavenLocalInnerTubeX are mutually exclusive")
-}
 
 pluginManagement {
     repositories {
+        mavenLocal()
         google()
         mavenCentral()
         gradlePluginPortal()
-        maven { setUrl("https://maven.aliyun.com/repository/public") }
-    }
-}
-plugins {
-    id("org.gradle.toolchains.foojay-resolver-convention") version "1.0.0"
-    id("com.gradle.develocity") version "4.6.1"
-}
-
-develocity {
-    buildScan {
-        termsOfUseUrl = "https://gradle.com/terms-of-service"
-        termsOfUseAgree = "yes"
-        publishing.onlyIf { System.getenv("CI") != null }
     }
 }
 
@@ -31,36 +15,28 @@ dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
 
     repositories {
-        if (useMavenLocalInnerTubeX) mavenLocal()
-        google()
-        mavenCentral()
-        maven {
-            setUrl("https://jitpack.io")
-            content {
-                includeGroup("com.github.nyxiereal.glyphmind")
-                includeGroup("com.github.MetrolistGroup.innertubex")
-                includeGroup("com.github.MetrolistGroup.quackjs")
+        exclusiveContent {
+            forRepository {
+                if (useMavenLocalInnerTubeX) mavenLocal() else maven("https://jitpack.io")
+            }
+            filter {
+                if (useMavenLocalInnerTubeX) {
+                    includeModule("com.github.MetrolistGroup", "innertubex")
+                    includeModule("com.github.MetrolistGroup", "innertubex-android")
+                    includeModule("com.github.MetrolistGroup", "innertubex-desktop")
+                } else {
+                    includeGroup("com.github.MetrolistGroup.innertubex")
+                }
             }
         }
+        google()
+        mavenCentral()
+        maven { setUrl("https://jitpack.io") }
         maven { setUrl("https://maven.aliyun.com/repository/public") }
-        maven("https://jogamp.org/deployment/maven")
-        maven {
-            name = "FDD Maven"
-            url = uri("https://maven.firstdark.dev/releases")
-        }
     }
 }
 
+// F-Droid doesn't support foojay-resolver plugin
 rootProject.name = "Metrolist"
-if (useLocalInnerTubeX) {
-    includeBuild("../innertubex") {
-        dependencySubstitution {
-            substitute(module("com.github.MetrolistGroup.innertubex:innertubex")).using(project(":"))
-        }
-    }
-}
-include(":shared")
-include(":listenTogetherProto")
-include(":opusDecoder")
-include(":androidApp")
-include(":desktopApp")
+include(":app")
+include(":innertube")

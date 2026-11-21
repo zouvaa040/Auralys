@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auralys_streak_longest">
+        <item quantity="one">Longest: %d day</item>
+        <item quantity="other">Longest: %d days</item>
+    </plurals>
+    <plurals name="auralys_streak_total">
+        <item quantity="one">%d day listened</item>
+        <item quantity="other">%d days listened</item>
+    </plurals>
+    <plurals name="auralys_streak_poster_days">
+        <item quantity="one">day in a row</item>
+        <item quantity="other">days in a row</item>
+    </plurals>
+    <plurals name="auralys_streak_gallery_days">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+
+    <string name="auralys_streak_status_none">Play a song today to start a streak</string>
+    <string name="auralys_streak_status_waiting">Your flame is resting. Play a song today to light it again</string>
+    <string name="auralys_streak_status_active">Burning! Come back tomorrow to keep it going</string>
+    <string name="auralys_streak_status_recoverable">Yesterday slipped by. Listen for %1$d minutes today to bring your flame back</string>
+    <string name="auralys_streak_recovery_progress">%1$d / %2$d min</string>
+    <string name="auralys_streak_recoveries_left">Recoveries left this month: %1$d of %2$d</string>
+    <string name="auralys_streak_recovered_today">Flame recovered today</string>
+    <string name="auralys_streak_recovery_blocked">No recoveries left this month, so the old streak ended</string>
+    <string name="auralys_streak_goal">Next flame: %1$s at %2$d days · %3$d to go</string>
+    <string name="auralys_streak_all_done">Every flame unlocked</string>
+    <string name="auralys_streak_share">Share streak</string>
+    <string name="auralys_streak_share_failed">Could not create the picture</string>
+    <string name="auralys_streak_gallery_open">All flames</string>
+    <string name="auralys_streak_gallery_title">Flame styles</string>
+    <string name="auralys_streak_gallery_subtitle">The longer your streak, the hotter the flame. Here is every look, up to 1000 days.</string>
+    <string name="auralys_streak_gallery_here">You are here</string>
+    <string name="auralys_streak_gallery_unlocked">Unlocked</string>
+    <string name="auralys_streak_gallery_togo">%d to go</string>
+    <string name="auralys_streak_home_setting">Streak on Home</string>
+    <string name="auralys_streak_home_setting_desc">Show your flame at the top of Home</string>
+    <string name="auralys_streak_poster_label">LISTENING STREAK</string>
+    <string name="auralys_streak_poster_longest">LONGEST</string>
+    <string name="auralys_streak_poster_total">DAYS LISTENED</string>
+    <string name="auralys_streak_poster_next">Next flame: %1$s at %2$d days</string>
+
+    <string name="auralys_flame_0">Out</string>
+    <string name="auralys_flame_1">Spark</string>
+    <string name="auralys_flame_2">Flame</string>
+    <string name="auralys_flame_3">Glowing</string>
+    <string name="auralys_flame_4">Roaring</string>
+    <string name="auralys_flame_5">Inferno</string>
+    <string name="auralys_flame_6">Blue flame</string>
+    <string name="auralys_flame_7">Plasma</string>
+    <string name="auralys_flame_8">Legend</string>
+    <string name="auralys_flame_9">Eternal</string>
+</resources>

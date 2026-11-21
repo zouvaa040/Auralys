@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Song poster ("Poster lagu"), round 4.3.4 workstream F. Indonesian in values-in/auralys_poster_434.xml (same names). -->
+<resources>
+    <string name="poster_title">Song poster</string>
+    <string name="poster_make">Make poster</string>
+    <string name="poster_make_desc">Your photo with up to 5 songs</string>
+    <string name="poster_pick_title">Choose songs for the poster</string>
+    <string name="poster_count">%1$d of %2$d</string>
+    <string name="poster_pick_first">Choose first %d</string>
+    <string name="poster_next">Next</string>
+    <string name="poster_no_songs">No songs for a poster yet</string>
+    <string name="poster_save">Save</string>
+    <string name="poster_saving">Saving…</string>
+    <string name="poster_saved">Saved</string>
+    <string name="poster_save_failed">The poster could not be saved.</string>
+    <string name="poster_share">Share</string>
+    <string name="poster_undo">Undo</string>
+    <string name="poster_back">Back</string>
+    <string name="poster_leave_title">Leave the poster?</string>
+    <string name="poster_leave_text">Changes are not saved.</string>
+    <string name="poster_stay">Stay here</string>
+    <string name="poster_leave">Leave</string>
+    <string name="poster_storage_denied">Storage permission is needed to save.</string>
+
+    <string name="poster_tab_photo">Photo</string>
+    <string name="poster_tab_cards">Cards</string>
+    <string name="poster_tab_card_style">Card style</string>
+    <string name="poster_tab_effects">Effects</string>
+    <string name="poster_tab_stickers">Stickers</string>
+    <string name="poster_tab_songs">Songs</string>
+
+    <string name="poster_photo_add">Choose photo</string>
+    <string name="poster_photo_change">Change photo</string>
+    <string name="poster_photo_remove">Remove photo</string>
+    <string name="poster_cutting">Cutting out the background…</string>
+    <string name="poster_cancel">Cancel</string>
+    <string name="poster_cut_none">No person found in this photo.</string>
+    <string name="poster_cut_failed">Background cut-out failed.</string>
+    <string name="poster_cut_memory">Not enough memory for this photo. Try a smaller photo.</string>
+    <string name="poster_photo_unreadable">The photo cannot be read.</string>
+    <string name="poster_size">Size</string>
+    <string name="poster_move_x">Move left-right</string>
+    <string name="poster_move_y">Move up-down</string>
+    <string name="poster_fill">Fill screen</string>
+    <string name="poster_fit">Fit whole</string>
+    <string name="poster_rotate">Rotate</string>
+    <string name="poster_mirror">Mirror</string>
+    <string name="poster_background">Background</string>
+    <string name="poster_dark">Dark</string>
+    <string name="poster_blur">Blur</string>
+    <string name="poster_card_light">Card light</string>
+    <string name="poster_light_color">Light colour</string>
+    <string name="poster_auto">Auto</string>
+    <string name="poster_glow_warm_white">Warm white</string>
+    <string name="poster_glow_gold">Gold</string>
+    <string name="poster_glow_orange">Orange</string>
+    <string name="poster_glow_pink">Pink</string>
+    <string name="poster_glow_cool_white">Cool white</string>
+
+    <string name="poster_layout">Arrangement</string>
+    <string name="poster_layout_orbit">Orbit</string>
+    <string name="poster_layout_stack">Stack</string>
+    <string name="poster_layout_row">Row</string>
+    <string name="poster_layout_column">Column</string>
+    <string name="poster_tilt_flat">Tilt sideways</string>
+    <string name="poster_tilt_up">Tilt up</string>
+    <string name="poster_lift">Lift</string>
+    <string name="poster_card_reset">Reset card</string>
+    <string name="poster_card_hint">Tap a card on the picture.</string>
+
+    <string name="poster_glass">Glass</string>
+    <string name="poster_glass_smoke">Smoked glass</string>
+    <string name="poster_glass_clear">Clear glass</string>
+    <string name="poster_glass_milk">Milk glass</string>
+    <string name="poster_glass_dark">Dark</string>
+    <string name="poster_perspective">Perspective</string>
+    <string name="poster_thickness">Thickness</string>
+    <string name="poster_frost">Frosted glass</string>
+    <string name="poster_opacity">Opacity</string>
+    <string name="poster_corner">Corners</string>
+    <string name="poster_reflection">Reflection</string>
+    <string name="poster_dof">Depth of field</string>
+    <string name="poster_shadow">Shadow</string>
+    <string name="poster_strength">Strength</string>
+    <string name="poster_distance">Distance</string>
+    <string name="poster_direction">Direction</string>
+    <string name="poster_tone_neutral">Neutral</string>
+    <string name="poster_tone_warm">Warm</string>
+    <string name="poster_tone_cover">Cover colour</string>
+    <string name="poster_style_reset">Reset card style</string>
+
+    <string name="poster_look">Look</string>
+    <string name="poster_preset_cinema">Cinema</string>
+    <string name="poster_preset_film">Old film</string>
+    <string name="poster_preset_clean">Clean</string>
+    <string name="poster_colour">Colour</string>
+    <string name="poster_grade_original">Original</string>
+    <string name="poster_grade_warm">Warm</string>
+    <string name="poster_grade_cool">Cool</string>
+    <string name="poster_grade_neon">Neon</string>
+    <string name="poster_grade_film">Film</string>
+    <string name="poster_fx_leak">Light leak</string>
+    <string name="poster_fx_streak">Lens flare</string>
+    <string name="poster_fx_stars">Stars</string>
+    <string name="poster_fx_bloom">Bloom</string>
+    <string name="poster_fx_grain">Film grain</string>
+    <string name="poster_fx_rim">Card rim</string>
+
+    <string name="poster_sticker_add">Add sticker</string>
+    <string name="poster_sticker_bird">Bird</string>
+    <string name="poster_sticker_glint">Glint</string>
+    <string name="poster_my_stickers">My stickers</string>
+    <string name="poster_none_yet">None yet.</string>
+    <string name="poster_duplicate">Duplicate</string>
+    <string name="poster_delete">Delete</string>
+    <string name="poster_sticker_limit">At most %d stickers.</string>
+    <string name="poster_sticker_unreadable">The sticker cannot be opened.</string>
+    <string name="poster_sticker_remove_lib">Remove from my stickers</string>
+
+    <string name="poster_up">Move up</string>
+    <string name="poster_down">Move down</string>
+    <string name="poster_remove_song">Remove from poster</string>
+</resources>

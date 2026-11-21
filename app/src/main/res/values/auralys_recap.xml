@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auralys_recap_title">Recap</string>
+    <string name="auralys_recap_your_recap">Your Recap %1$s</string>
+    <string name="auralys_recap_entry_subtitle">Your top songs, artists and minutes</string>
+    <string name="auralys_recap_minutes_listened">minutes listened</string>
+    <string name="auralys_recap_songs_count">%1$s songs</string>
+    <string name="auralys_recap_artists_count">%1$s artists</string>
+    <string name="auralys_recap_this_year">This year</string>
+    <string name="auralys_recap_last_30_days">Last 30 days</string>
+    <string name="auralys_recap_all_time">All time</string>
+    <string name="auralys_recap_play">Play your Recap</string>
+    <string name="auralys_recap_watch">Watch your Recap</string>
+    <string name="auralys_recap_top_songs">Top songs</string>
+    <string name="auralys_recap_top_artists">Top artists</string>
+    <string name="auralys_recap_top_albums">Top albums</string>
+    <string name="auralys_recap_show_more">Show more</string>
+    <string name="auralys_recap_show_less">Show less</string>
+    <string name="auralys_recap_minutes_short">%1$s min</string>
+    <string name="auralys_recap_empty">No listening history for this period yet. Play some music and come back later.</string>
+    <string name="auralys_recap_share">Share your Recap</string>
+    <string name="auralys_recap_share_failed">Couldn\'t create the image</string>
+    <string name="auralys_recap_close">Close</string>
+    <string name="auralys_recap_poster_label">AURALYS RECAP</string>
+    <string name="auralys_recap_story_listened_for">You listened for</string>
+    <string name="auralys_recap_story_minutes">minutes</string>
+    <string name="auralys_recap_story_top_song">Your top song</string>
+    <string name="auralys_recap_story_plays">%1$s plays</string>
+    <string name="auralys_recap_story_top_artist">Your top artist</string>
+    <string name="auralys_recap_story_minutes_together">%1$s minutes together</string>
+    <string name="auralys_recap_story_top5_songs">Your top 5 songs</string>
+    <string name="auralys_recap_story_top5_artists">Your top 5 artists</string>
+    <string name="auralys_recap_story_thanks">That\'s your Recap</string>
+    <string name="auralys_recap_story_thanks_sub">Thanks for listening with Auralys.</string>
+    <string name="auralys_recap_pause">Pause Recap</string>
+    <string name="auralys_recap_resume">Resume Recap</string>
+</resources>

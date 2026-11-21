@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lock_lyrics_title">Lirik di layar kunci</string>
+    <string name="lock_lyrics_desc">Muncul saat layar dinyalakan ketika lagu diputar</string>
+    <string name="lock_lyrics_permission_title">Izin layar kunci</string>
+    <string name="lock_lyrics_permission_missing">Belum diizinkan. Ketuk untuk mengizinkan \"Tampilkan di atas aplikasi lain\".</string>
+    <string name="lock_lyrics_permission_ok">Jika tidak muncul, izinkan \"Tampilkan di layar kunci\" di Info aplikasi.</string>
+    <string name="lock_lyrics_swipe">Geser ke atas untuk membuka</string>
+</resources>

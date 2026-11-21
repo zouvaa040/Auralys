@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- New styles and presets -->
+    <string name="dynamic_island_style_liquid">Liquid glass</string>
+    <string name="dynamic_island_style_liquid_desc">Clear glass over the blurred cover, like the navigation bar, with a bent edge and a bright rim</string>
+    <string name="dynamic_island_style_custom">Custom colours</string>
+    <string name="dynamic_island_style_custom_desc">Pick your own two colours</string>
+    <string name="dynamic_island_preset_liquid">Liquid</string>
+    <string name="dynamic_island_preset_neon">Neon</string>
+
+    <!-- Appearance -->
+    <string name="dynamic_island_blur">Cover blur</string>
+    <string name="dynamic_island_shine">Glass shine</string>
+    <string name="dynamic_island_custom_top">Top colour</string>
+    <string name="dynamic_island_custom_bottom">Bottom colour</string>
+    <string name="dynamic_island_text_color">Text colour</string>
+    <string name="dynamic_island_accent_color">Accent colour</string>
+    <string name="dynamic_island_accent_color_desc">Equaliser, progress bar and glow</string>
+    <string name="dynamic_island_border_width">Border width</string>
+    <string name="dynamic_island_border_color">Border colour</string>
+    <string name="dynamic_island_color_auto">Automatic</string>
+    <string name="dynamic_island_border_none">No border</string>
+    <string name="dynamic_island_border_value">%1$d dp</string>
+
+    <!-- Expanded card -->
+    <string name="dynamic_island_expanded_width">Card width</string>
+    <string name="dynamic_island_expanded_roundness">Card roundness</string>
+    <string name="dynamic_island_follow_roundness">Same roundness as the pill</string>
+    <string name="dynamic_island_cover_size">Cover size</string>
+    <string name="dynamic_island_text_size">Text size</string>
+
+    <!-- Colour picker -->
+    <string name="dynamic_island_hue">Hue</string>
+    <string name="dynamic_island_saturation">Saturation</string>
+    <string name="dynamic_island_brightness">Brightness</string>
+    <string name="dynamic_island_color_use_auto">Use automatic</string>
+
+    <!-- Position editor -->
+    <string name="dynamic_island_place">Place on screen</string>
+    <string name="dynamic_island_place_desc">Drag the island to where you want it on a mock of your screen</string>
+    <string name="dynamic_island_place_hint">Drag the island. It snaps to the centre and to the camera.</string>
+</resources>

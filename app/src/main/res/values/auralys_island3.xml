@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Presets -->
+    <string name="dynamic_island_presets">Presets</string>
+    <string name="dynamic_island_presets_hint">Apply a ready-made look in one tap</string>
+    <string name="dynamic_island_preset_custom">Custom look</string>
+    <string name="dynamic_island_preset_iphone">iPhone</string>
+    <string name="dynamic_island_preset_glass">Glass</string>
+    <string name="dynamic_island_preset_colourful">Colourful</string>
+    <string name="dynamic_island_preset_minimal">Minimal</string>
+
+    <!-- Preview -->
+    <string name="dynamic_island_preview_on_screen">On screen</string>
+    <string name="dynamic_island_preview_expanded">Expanded card</string>
+
+    <!-- Appearance -->
+    <string name="dynamic_island_appearance">Appearance</string>
+    <string name="dynamic_island_style">Style</string>
+    <string name="dynamic_island_style_classic">Classic</string>
+    <string name="dynamic_island_style_classic_desc">Pure black, like the iPhone</string>
+    <string name="dynamic_island_style_glass">Glass</string>
+    <string name="dynamic_island_style_glass_desc">Dark frosted glass with a soft sheen</string>
+    <string name="dynamic_island_style_cover">Cover colour</string>
+    <string name="dynamic_island_style_cover_desc">Tinted with the colours of the artwork</string>
+    <string name="dynamic_island_style_light">Light</string>
+    <string name="dynamic_island_style_light_desc">White card with dark text</string>
+    <string name="dynamic_island_roundness">Roundness</string>
+    <string name="dynamic_island_opacity">Opacity</string>
+    <string name="dynamic_island_percent">%1$d%%</string>
+    <string name="dynamic_island_glow">Glow</string>
+    <string name="dynamic_island_glow_desc">Soft halo around the expanded card</string>
+    <string name="dynamic_island_glow_intensity">Glow intensity</string>
+    <string name="dynamic_island_glow_color">Glow colour</string>
+    <string name="dynamic_island_glow_color_cover">Cover</string>
+    <string name="dynamic_island_glow_color_accent">App accent</string>
+    <string name="dynamic_island_glow_color_white">White</string>
+    <string name="dynamic_island_cover_shape">Cover shape</string>
+    <string name="dynamic_island_cover_rounded">Rounded square</string>
+    <string name="dynamic_island_cover_circle">Circle</string>
+    <string name="dynamic_island_spin_cover">Spin cover while playing</string>
+    <string name="dynamic_island_spin_cover_desc">Turns slowly like a record</string>
+
+    <!-- Compact pill -->
+    <string name="dynamic_island_compact">Compact pill</string>
+    <string name="dynamic_island_pill_width">Width</string>
+    <string name="dynamic_island_compact_content">Content</string>
+    <string name="dynamic_island_content_cover_eq">Cover and equaliser</string>
+    <string name="dynamic_island_content_cover">Cover only</string>
+    <string name="dynamic_island_content_eq">Equaliser only</string>
+    <string name="dynamic_island_content_cover_title">Cover and scrolling title</string>
+    <string name="dynamic_island_eq_style">Equaliser style</string>
+    <string name="dynamic_island_eq_bars">Bars</string>
+    <string name="dynamic_island_eq_wave">Wave</string>
+    <string name="dynamic_island_eq_dots">Dots</string>
+    <string name="dynamic_island_eq_color">Equaliser colour</string>
+    <string name="dynamic_island_eq_color_cover">Cover colour</string>
+    <string name="dynamic_island_eq_color_white">White</string>
+
+    <!-- Expanded card -->
+    <string name="dynamic_island_expanded">Expanded card</string>
+    <string name="dynamic_island_layout">Layout</string>
+    <string name="dynamic_island_layout_card">Card</string>
+    <string name="dynamic_island_layout_card_desc">Cover on the left, controls below</string>
+    <string name="dynamic_island_layout_row">Compact row</string>
+    <string name="dynamic_island_layout_row_desc">Cover, title and buttons in one row</string>
+    <string name="dynamic_island_show_artist">Show artist</string>
+    <string name="dynamic_island_show_progress">Show progress bar</string>
+    <string name="dynamic_island_show_progress_desc">With elapsed and remaining time</string>
+    <string name="dynamic_island_show_buttons">Show buttons</string>
+    <string name="dynamic_island_button_style">Button style</string>
+    <string name="dynamic_island_buttons_filled">Filled</string>
+    <string name="dynamic_island_buttons_outline">Outline</string>
+
+    <!-- Behaviour -->
+    <string name="dynamic_island_behaviour">Behaviour</string>
+    <string name="dynamic_island_auto_collapse">Collapse automatically after</string>
+    <string name="dynamic_island_hide_after_pause">Hide after pausing for</string>
+    <string name="dynamic_island_seconds">%1$d s</string>
+    <string name="dynamic_island_only_playing">Show only while playing</string>
+    <string name="dynamic_island_only_playing_desc">Hidden as soon as playback pauses</string>
+    <string name="dynamic_island_tap_action">Tap on the pill</string>
+    <string name="dynamic_island_tap_expand">Expand</string>
+    <string name="dynamic_island_tap_open">Open Auralys</string>
+    <string name="dynamic_island_tap_play_pause">Play / pause</string>
+    <string name="dynamic_island_long_press">Long-press on the pill</string>
+    <string name="dynamic_island_long_press_drag">Drag to move</string>
+    <string name="dynamic_island_long_press_hide">Hide until the next song</string>
+    <string name="dynamic_island_haptics">Haptic feedback</string>
+    <string name="dynamic_island_animation">Animation</string>
+    <string name="dynamic_island_animation_calm">Calm</string>
+    <string name="dynamic_island_animation_normal">Normal</string>
+    <string name="dynamic_island_animation_bouncy">Bouncy</string>
+
+    <!-- Reset and help -->
+    <string name="dynamic_island_reset_all">Reset all</string>
+    <string name="dynamic_island_reset_all_desc">Every Dynamic Island option back to its default</string>
+    <string name="dynamic_island_gestures_pill">Swipe up on the pill to hide it until the next song. Tap and long-press do what is chosen above.</string>
+    <string name="dynamic_island_gestures_expanded">On the expanded card, drag the bar to seek and swipe up to close it. Tap the cover or title to open Auralys.</string>
+</resources>

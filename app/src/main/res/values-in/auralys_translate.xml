@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_provider_google_label">Google Terjemahan (gratis)</string>
+    <string name="ai_provider_google_help">Menerjemahkan lirik baris demi baris lewat Google Terjemahan. Tanpa akun dan tanpa kunci API, cukup butuh internet. Pilih penyedia AI untuk hasil yang lebih natural dan sesuai konteks.</string>
+    <string name="ai_provider_google_ready">Siap dipakai</string>
+    <string name="ai_provider_google_ready_desc">Tidak perlu kunci API. Pilih bahasa tujuan di bawah, lalu ketuk terjemahkan di menu lirik.</string>
+</resources>

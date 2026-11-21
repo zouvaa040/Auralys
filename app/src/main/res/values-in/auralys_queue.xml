@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auralys_queue_clear">Bersihkan antrean</string>
+    <string name="auralys_queue_clear_message">Semua lagu di antrean akan dihapus, kecuali lagu yang sedang diputar.</string>
+    <string name="auralys_queue_clear_confirm">Bersihkan</string>
+    <string name="auralys_queue_clear_cancel">Batal</string>
+    <string name="auralys_queue_played_next">Diputar berikutnya</string>
+    <string name="auralys_queue_is_current">Sedang diputar</string>
+    <string name="auralys_queue_already_next">Sudah berikutnya</string>
+    <string name="auralys_queue_removed">\"%1$s\" dihapus dari antrean</string>
+    <string name="auralys_queue_locked">Antrean terkunci</string>
+    <string name="auralys_queue_unlock">Buka kunci</string>
+</resources>

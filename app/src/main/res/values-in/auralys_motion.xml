@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="collapse_nav_on_scroll_title">Ciutkan bilah navigasi saat menggulir</string>
+    <string name="collapse_nav_on_scroll_desc">Bilah diciutkan menjadi tab aktif saat halaman digulir ke bawah, lalu ditampilkan lagi saat digulir ke atas atau diketuk</string>
+    <string name="nav_bar_expand">Tampilkan bilah navigasi</string>
+</resources>

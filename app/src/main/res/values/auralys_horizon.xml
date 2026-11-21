@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_mode_title">Color</string>
+    <string name="color_mode_neutral">Neutral</string>
+    <string name="color_mode_cover">Cover</string>
+    <string name="color_mode_custom">Custom</string>
+</resources>

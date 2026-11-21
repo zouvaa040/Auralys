@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema dan warna: latar aplikasi mengikuti warna sampul lagu yang diputar -->
+    <string name="auralys_cover_shade_title">Efek berbayang</string>
+    <string name="auralys_cover_shade_off">Mati</string>
+    <string name="auralys_cover_shade_soft">Lembut</string>
+    <string name="auralys_cover_shade_strong">Kuat</string>
+</resources>

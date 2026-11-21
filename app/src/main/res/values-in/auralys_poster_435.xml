@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Poster lagu, round 4.3.5 (P2). Same names as values/auralys_poster_435.xml. -->
+<resources>
+    <string name="poster_fx_key_light">Cahaya utama</string>
+    <string name="poster_fx_lens_streak">Garis lensa</string>
+    <string name="poster_fx_glints">Kilau</string>
+
+    <string name="poster_sticker_edit">Ubah</string>
+    <string name="poster_sticker_edit_title">Ubah stiker</string>
+    <string name="poster_sticker_remove_bg">Hapus latar</string>
+    <string name="poster_sticker_removing">Menghapus latar…</string>
+    <string name="poster_sticker_method_person">Orang</string>
+    <string name="poster_sticker_method_color">Warna</string>
+    <string name="poster_sticker_tolerance">Toleransi</string>
+    <string name="poster_sticker_smooth_edge">Haluskan tepi</string>
+    <string name="poster_sticker_brush">Kuas</string>
+    <string name="poster_sticker_move">Geser</string>
+    <string name="poster_sticker_erase">Hapus</string>
+    <string name="poster_sticker_restore">Pulihkan</string>
+    <string name="poster_sticker_brush_size">Ukuran kuas</string>
+    <string name="poster_sticker_softness">Kelembutan</string>
+    <string name="poster_sticker_reset">Kembalikan asli</string>
+    <string name="poster_sticker_done">Selesai</string>
+    <string name="poster_sticker_redo">Ulangi</string>
+    <string name="poster_sticker_discard_title">Buang stiker ini?</string>
+    <string name="poster_sticker_discard">Buang</string>
+    <string name="poster_sticker_already_clear">Latar sudah transparan.</string>
+    <string name="poster_sticker_no_person">Orang tidak ditemukan. Warna latar dipakai.</string>
+    <string name="poster_sticker_empty">Stiker kosong.</string>
+    <string name="poster_sticker_failed">Latar tidak bisa dihapus.</string>
+</resources>

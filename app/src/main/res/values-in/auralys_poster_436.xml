@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Poster lagu, round 4.3.6. Same names as values/auralys_poster_436.xml. -->
+<resources>
+    <string name="poster_tab_background">Gaya latar</string>
+    <string name="poster_tab_text">Teks</string>
+    <string name="poster_tab_export">Ekspor</string>
+
+    <string name="poster_ratio_9_16">9:16 TikTok</string>
+    <string name="poster_ratio_16_9">16:9 YouTube</string>
+    <string name="poster_ratio_4_5">4:5 Instagram</string>
+    <string name="poster_ratio_1_1">1:1 Kotak</string>
+    <string name="poster_ratio_3_4">3:4 Potret</string>
+    <string name="poster_ratio_4_3">4:3 Layar</string>
+    <string name="poster_ratio_2_3">2:3 Pinterest</string>
+    <string name="poster_ratio_3_2">3:2 Foto</string>
+
+    <string name="poster_layout_grid">Kolase</string>
+    <string name="poster_layout_big">Satu besar</string>
+    <string name="poster_rearrange">Susun ulang</string>
+    <string name="poster_shuffle">Acak desain</string>
+
+    <string name="poster_bg_original">Asli</string>
+    <string name="poster_bg_blur">Sampul kabur</string>
+    <string name="poster_bg_gradient">Gradien</string>
+    <string name="poster_bg_solid">Polos</string>
+    <string name="poster_bg_hint">Ini menggantikan foto. Orang yang dipotong tetap di depan.</string>
+    <string name="poster_vignette">Vinyet</string>
+
+    <string name="poster_text_add">Tambah teks</string>
+    <string name="poster_text_edit">Ubah teks</string>
+    <string name="poster_text_done">Selesai</string>
+    <string name="poster_text_placeholder">Teksmu</string>
+    <string name="poster_text_hint">Ketuk teks di poster untuk mengubahnya.</string>
+    <string name="poster_text_style">Gaya</string>
+    <string name="poster_text_color">Warna</string>
+    <string name="poster_text_limit">Paling banyak %d teks.</string>
+    <string name="poster_text_clean">Bersih</string>
+    <string name="poster_text_bold">Tebal</string>
+    <string name="poster_text_serif">Serif</string>
+    <string name="poster_text_marker">Sorot</string>
+    <string name="poster_text_outline">Garis</string>
+
+    <string name="poster_export_format">Format</string>
+    <string name="poster_export_png">PNG</string>
+    <string name="poster_export_jpeg">JPEG</string>
+    <string name="poster_export_quality">Kualitas</string>
+    <string name="poster_export_size">Ukuran: %1$d × %2$d px</string>
+</resources>

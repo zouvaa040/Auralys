@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Search results -->
+    <string name="search_music_only">Hide videos in search results</string>
+    <!-- Search source switch -->
+    <string name="search_source_youtube">YouTube</string>
+    <string name="search_source_device">Device</string>
+    <string name="search_device">Search on device…</string>
+    <string name="search_device_hint">Type to search songs on this device</string>
+    <!-- Lyrics providers -->
+    <string name="enable_simpmusic">Enable SimpMusic</string>
+    <string name="enable_simpmusic_desc">Community lyrics matched to the exact YouTube video</string>
+    <string name="enable_bini_lyrics">Enable BiniLyrics</string>
+    <string name="enable_bini_lyrics_desc">Syllable-synced lyrics, matched by title, artist and length</string>
+    <string name="enable_lrc_red">Enable lrc.red</string>
+    <string name="enable_lrc_red_desc">Syllable-synced lyrics, only exact version matches</string>
+    <string name="enable_unison">Enable Unison</string>
+    <string name="enable_unison_desc">Community-submitted lyrics database</string>
+</resources>

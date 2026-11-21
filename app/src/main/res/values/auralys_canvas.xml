@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ambient mode -->
+    <string name="ambient_mode">Ambient mode</string>
+    <string name="ambient_mode_desc">A calm full-screen view of what is playing</string>
+    <string name="ambient_mode_close">Close ambient mode</string>
+    <string name="ambient_mode_play">Play</string>
+    <string name="ambient_mode_pause">Pause</string>
+    <string name="ambient_mode_next">Next</string>
+    <string name="ambient_mode_previous">Previous</string>
+
+    <!-- Animated artwork -->
+    <string name="animated_artwork">Animated artwork</string>
+    <string name="animated_artwork_desc">Shows a short silent looping video over the cover in the full player when one is available. Uses extra data and battery.</string>
+    <string name="animated_artwork_not_recommended">Not recommended on this device</string>
+</resources>

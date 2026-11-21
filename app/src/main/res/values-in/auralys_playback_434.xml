@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Round 4.3.4, workstream A (playback reliability): short messages when the player gives up on a song. -->
+<resources>
+    <string name="auralys_playback_skipped">Lagu ini tidak dapat diputar, lanjut ke lagu berikutnya</string>
+    <string name="auralys_playback_stopped_network">Pemutaran berhenti karena koneksi terlalu lambat. Ketuk Putar untuk mencoba lagi.</string>
+    <string name="auralys_playback_stopped_songs">Beberapa lagu berturut-turut tidak dapat diputar. Periksa koneksi, lalu ketuk Putar.</string>
+    <string name="auralys_playback_stopped_audio">Keluaran audio ponsel tidak merespons. Ketuk Putar untuk mencoba lagi.</string>
+    <string name="auralys_playback_song_failed">Lagu ini tidak dapat diputar saat ini</string>
+    <string name="auralys_player_not_ready">Pemutar masih bersiap, coba lagi</string>
+    <string name="auralys_playback_stopped_unreachable">Tidak dapat terhubung ke server. Pemutaran dilanjutkan saat koneksi kembali.</string>
+    <string name="auralys_download_repaired">Unduhan lagu ini rusak. Lagu diputar dari internet dan diunduh ulang.</string>
+    <string name="auralys_playing_alternative">Lagu ini diputar dari unggahan resmi lain</string>
+    <string name="auralys_song_no_stream">Tidak ada sumber suara dari YouTube untuk lagu ini.</string>
+    <string name="auralys_song_age_restricted">Lagu ini dibatasi usia. Masuk ke akun YouTube untuk memutarnya.</string>
+</resources>

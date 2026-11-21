@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme and colors: the app background follows the colour of the cover that plays -->
+    <string name="auralys_cover_shade_title">Shaded effect</string>
+    <string name="auralys_cover_shade_off">Off</string>
+    <string name="auralys_cover_shade_soft">Soft</string>
+    <string name="auralys_cover_shade_strong">Strong</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_mode_title">Warna</string>
+    <string name="color_mode_neutral">Netral</string>
+    <string name="color_mode_cover">Sampul</string>
+    <string name="color_mode_custom">Kustom</string>
+</resources>

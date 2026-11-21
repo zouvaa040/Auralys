@@ -1,0 +1,4 @@
+HSPLcom/metrolist/music/**;->**(**)**
+Lcom/metrolist/music/**;
+HSPLcom/metrolist/innertube/**;->**(**)**
+Lcom/metrolist/innertube/**;

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="peek_like">Like</string>
+    <string name="peek_unlike">Remove like</string>
+    <string name="peek_more">More…</string>
+</resources>

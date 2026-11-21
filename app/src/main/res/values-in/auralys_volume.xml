@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Kontrol volume: keadaan yang dibacakan pembaca layar, dan ikon kiri untuk membisukan -->
+    <string name="auralys_volume_state">Volume %1$d%%</string>
+    <string name="auralys_volume_mute">Bisukan</string>
+    <string name="auralys_volume_unmute">Nyalakan suara</string>
+</resources>

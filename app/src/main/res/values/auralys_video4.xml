@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Video mode: the status line of the media-info dialog (video/VideoStatusText.kt) -->
+    <string name="video4_status_available">available</string>
+    <string name="video4_status_checking">searching</string>
+    <string name="video4_status_nomatch">no matching clip</string>
+    <string name="video4_status_failed">failed: %1$s</string>
+    <string name="video4_status_failed_retry">failed: %1$s (trying again)</string>
+    <string name="video4_status_cooldown">paused for now (try again in %1$d s)</string>
+    <string name="video4_status_off">off in settings</string>
+    <string name="video4_status_unknown">not checked yet</string>
+    <string name="video4_reason_offline">no network</string>
+    <string name="video4_reason_timeout">timed out</string>
+    <string name="video4_reason_stall">the picture did not start</string>
+    <string name="video4_reason_no_format">no video format</string>
+    <string name="video4_reason_unplayable">the clip cannot be played</string>
+    <string name="video4_reason_age_geo">limited by age or region</string>
+    <string name="video4_reason_codec">the device does not support the format</string>
+    <string name="video4_reason_bot_check">YouTube security check</string>
+    <string name="video4_reason_forbidden">refused by the server (403)</string>
+    <string name="video4_reason_attestation">YouTube verification needed</string>
+    <string name="video4_reason_sabr">stream error</string>
+    <string name="video4_reason_decoder">the decoder failed</string>
+    <string name="video4_reason_unknown">unknown</string>
+</resources>

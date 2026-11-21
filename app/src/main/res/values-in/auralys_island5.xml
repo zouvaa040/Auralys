@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dynamic_island_pill_height">Tinggi</string>
+    <string name="dynamic_island_fine_x">Geser halus ke samping</string>
+    <string name="dynamic_island_fit_camera">Pas ke kamera depan</string>
+    <string name="dynamic_island_fit_camera_desc">Tengahkan island tepat di lubang kamera dan samakan ukurannya</string>
+    <string name="dynamic_island_fit_camera_none">Tidak ada lubang kamera di HP ini. Pakai slider saja.</string>
+</resources>

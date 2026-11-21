@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The volume control: the state read by a screen reader, and the left icon that mutes -->
+    <string name="auralys_volume_state">Volume %1$d%%</string>
+    <string name="auralys_volume_mute">Mute</string>
+    <string name="auralys_volume_unmute">Unmute</string>
+</resources>

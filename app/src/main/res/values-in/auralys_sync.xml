@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sinkron dengan Auralys PC (QR). Semua string di sini milik fitur sinkron; lihat SYNC-MANIFEST.md -->
+    <string name="sync_pc_title">Sinkron dengan Auralys PC</string>
+
+    <string name="sync_pc_step_1">Di Auralys PC, buka Pengaturan &gt; Cadangan &gt; Sinkron dengan HP. Kode QR akan tampil.</string>
+    <string name="sync_pc_step_2">Pastikan HP dan PC terhubung ke Wi-Fi yang sama, lalu ketuk Pindai QR.</string>
+    <string name="sync_pc_step_3">Playlist, lagu disukai, album dan artis tersimpan, riwayat putar, dan pencarian digabung di kedua sisi. Tidak ada data yang dihapus, dan login YouTube Music tidak ikut dikirim.</string>
+
+    <string name="sync_pc_scan">Pindai QR</string>
+    <string name="sync_pc_paste">Tempel kode</string>
+    <string name="sync_pc_scan_prompt">Arahkan kamera ke kode QR di layar PC</string>
+    <string name="sync_pc_camera_denied">Izin kamera ditolak. Izinkan di pengaturan HP atau gunakan Tempel kode.</string>
+    <string name="sync_pc_paste_title">Tempel kode sinkron</string>
+    <string name="sync_pc_paste_label">Kode (auralys://sync…)</string>
+    <string name="sync_pc_paste_clipboard">Tempel dari papan klip</string>
+    <string name="sync_pc_paste_start">Mulai</string>
+    <string name="sync_pc_cancel">Batal</string>
+
+    <string name="sync_pc_step_connecting">Menyambung ke %1$s…</string>
+    <string name="sync_pc_step_handshake">Menghubungi PC…</string>
+    <string name="sync_pc_step_reading">Membaca data di HP…</string>
+    <string name="sync_pc_step_sending">Mengirim data ke PC…</string>
+    <string name="sync_pc_step_waiting">Menunggu konfirmasi di PC. Pilih Gabungkan di jendela PC.</string>
+    <string name="sync_pc_step_backup">Membuat cadangan pengaman…</string>
+    <string name="sync_pc_step_applying">Menggabungkan data dari PC…</string>
+    <string name="sync_pc_step_finishing">Menyelesaikan…</string>
+
+    <string name="sync_pc_done_title">Sinkron selesai</string>
+    <string name="sync_pc_done_with">Sudah digabung dengan %1$s</string>
+    <string name="sync_pc_done_nothing">Tidak ada data baru, kedua sisi sudah sama.</string>
+    <string name="sync_pc_done_playlists_new">%1$d playlist baru</string>
+    <string name="sync_pc_done_playlists_extended">%1$d playlist bertambah %2$d lagu</string>
+    <string name="sync_pc_done_liked">%1$d lagu disukai baru</string>
+    <string name="sync_pc_done_saved">%1$d album, artis, dan playlist tersimpan baru</string>
+    <string name="sync_pc_done_saved_skipped">%1$d item tersimpan dilewati (tidak dapat ditampilkan)</string>
+    <string name="sync_pc_done_events">%1$d riwayat putar baru</string>
+    <string name="sync_pc_done_searches">%1$d pencarian baru</string>
+    <string name="sync_pc_done_songs">%1$d lagu ditambahkan ke database (tidak tampil di Pustaka)</string>
+    <string name="sync_pc_done_unresolved">%1$d data dilewati karena info lagunya tidak ada</string>
+    <string name="sync_pc_backup_note">Cadangan pengaman dibuat sebelum penggabungan (%1$s) dan tersimpan di folder privat aplikasi. Simpan salinannya agar data dapat dipulihkan lewat Cadangan dan pemulihan.</string>
+    <string name="sync_pc_save_backup">Simpan salinan cadangan</string>
+    <string name="sync_pc_backup_saved">Salinan cadangan tersimpan</string>
+    <string name="sync_pc_backup_save_failed">Salinan cadangan gagal disimpan</string>
+    <string name="sync_pc_close">Selesai</string>
+    <string name="sync_pc_again">Sinkron lagi</string>
+
+    <string name="sync_pc_declined">Penggabungan dibatalkan di PC. Tidak ada data yang berubah di HP.</string>
+
+    <string name="sync_pc_failed_title">Sinkron gagal</string>
+    <string name="sync_pc_err_bad_code">Kode ini bukan kode sinkron Auralys PC. Pindai QR yang tampil di jendela sinkron PC.</string>
+    <string name="sync_pc_err_connect">Tidak dapat terhubung ke PC. Periksa: 1) HP dan PC berada di Wi-Fi yang sama (bukan Wi-Fi tamu atau data seluler), 2) jendela sinkron di PC masih terbuka, 3) Firewall Windows mengizinkan Auralys (pilih Izinkan jika diminta), 4) VPN di HP dimatikan.</string>
+    <string name="sync_pc_err_closed">PC menutup koneksi. QR mungkin sudah kedaluwarsa (berlaku 3 menit) atau jendela sinkron ditutup. Buka QR baru di PC, lalu pindai lagi.</string>
+    <string name="sync_pc_err_timeout">PC tidak merespons tepat waktu. Pastikan jendela sinkron masih terbuka, lalu coba lagi.</string>
+    <string name="sync_pc_err_version">Versi sinkron di PC dan HP berbeda. Perbarui Auralys di keduanya.</string>
+    <string name="sync_pc_err_pc">PC melaporkan masalah: %1$s</string>
+    <string name="sync_pc_err_protocol">Jawaban PC tidak sesuai. Pastikan kedua aplikasi sudah versi terbaru, lalu coba lagi.</string>
+    <string name="sync_pc_err_local">Terjadi kesalahan di HP saat membaca atau menggabungkan data. Penggabungan dilakukan sekaligus, sehingga langkah yang gagal tidak mengubah data. Detail: %1$s</string>
+    <string name="sync_pc_err_network">Koneksi terputus. Periksa Wi-Fi, lalu coba lagi.</string>
+</resources>

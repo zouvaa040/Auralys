@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_static_background">#F4F0E8</color>
+    <color name="splash_bg">#F5F6F8</color>
+
+    <!-- Widget colors for light mode -->
+    <color name="widget_text_primary">#1C1B1F</color>
+    <color name="widget_text_secondary">#49454F</color>
+</resources>

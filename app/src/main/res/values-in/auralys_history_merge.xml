@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Gabungan riwayat dari akun ke riwayat putar di HP (Recap dan streak memakainya) -->
+    <string name="auralys_history_merge_title">Gabungkan riwayat dari akun</string>
+    <string name="auralys_history_merge_now">Gabungkan sekarang</string>
+    <string name="auralys_history_merge_never">Belum pernah</string>
+    <string name="auralys_history_merge_running">Menggabungkan…</string>
+    <string name="auralys_history_merge_failed">Gagal. Coba lagi nanti.</string>
+    <string name="auralys_history_merge_signed_out">Masuk ke akun terlebih dahulu</string>
+    <string name="auralys_history_merge_paused">Riwayat putar dijeda</string>
+    <plurals name="auralys_history_merge_last">
+        <item quantity="other">Terakhir: %1$s, %2$d putaran ditambahkan</item>
+    </plurals>
+    <plurals name="auralys_history_merge_done">
+        <item quantity="other">Riwayat dari akunmu digabung: %1$d putaran</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Lyrics source picker (round 4.3.4) -->
+    <string name="auralys_lyrics_sources_title">Lyrics source</string>
+    <string name="auralys_lyrics_source_auto">Automatic</string>
+    <string name="auralys_lyrics_source_auto_now">Now: %s</string>
+    <string name="auralys_lyrics_source_auto_pick">Picks the best match</string>
+    <string name="auralys_lyrics_source_word">Synced per word</string>
+    <string name="auralys_lyrics_source_line">Synced per line</string>
+    <string name="auralys_lyrics_source_plain">Not synced</string>
+    <string name="auralys_lyrics_source_other_version">Another version</string>
+    <string name="auralys_lyrics_source_loading">Searching</string>
+    <string name="auralys_lyrics_source_not_found">Not found</string>
+    <string name="auralys_lyrics_source_idle">Tap to search</string>
+    <string name="auralys_lyrics_source_unavailable">Not for device files</string>
+    <string name="auralys_lyrics_source_in_use">In use</string>
+    <string name="auralys_lyrics_choose_source">Choose source</string>
+
+    <!-- Lyrics timing (offset) -->
+    <string name="auralys_lyrics_timing_title">Lyrics timing</string>
+    <string name="auralys_lyrics_timing_earlier">Earlier</string>
+    <string name="auralys_lyrics_timing_later">Later</string>
+    <string name="auralys_lyrics_timing_value_earlier">%s s earlier</string>
+    <string name="auralys_lyrics_timing_value_later">%s s later</string>
+    <string name="auralys_lyrics_timing_value_zero">Not shifted</string>
+    <string name="auralys_lyrics_timing_hint">Or tap the line being sung now</string>
+    <string name="auralys_lyrics_timing_done">Done</string>
+
+    <!-- Lyrics fixes after the review (round 4.3.4) -->
+    <string name="auralys_lyrics_source_previous">Previous lyrics</string>
+    <string name="auralys_lyrics_source_use_anyway">Use anyway</string>
+    <string name="auralys_lyrics_auto_nothing">No other lyrics match this song</string>
+    <string name="auralys_lyrics_refetch_nothing_new">No other lyrics found</string>
+    <string name="auralys_lyrics_timing_unsynced">Timing works only for synced lyrics</string>
+</resources>

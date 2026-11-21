@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auralys_import_spotify">Import from Spotify</string>
+    <string name="auralys_import_apple_music">Import from Apple Music</string>
+    <string name="auralys_import_spotify_desc">Paste the link of a public Spotify playlist or album. Each song is looked up on YouTube Music and saved to a new local playlist.</string>
+    <string name="auralys_import_apple_desc">Paste the link of a public Apple Music playlist or album. Each song is looked up on YouTube Music and saved to a new local playlist.</string>
+    <string name="auralys_import_link_label">Playlist link</string>
+    <string name="auralys_import_paste">Paste</string>
+    <string name="auralys_import_start">Import</string>
+    <string name="auralys_import_close">Close</string>
+    <string name="auralys_import_open_playlist">Open playlist</string>
+    <string name="auralys_import_reading">Reading playlist…</string>
+    <string name="auralys_import_reading_full">Reading the whole playlist… %1$d of %2$d</string>
+    <string name="auralys_import_reading_full_unknown">Reading the whole playlist… %1$d songs</string>
+    <string name="auralys_import_matching">Finding songs on YouTube Music…</string>
+    <string name="auralys_import_progress">Found %1$d · checked %2$d of %3$d</string>
+    <string name="auralys_import_saving">Saving playlist…</string>
+    <string name="auralys_import_done">Playlist “%1$s” created with %2$d songs.</string>
+    <string name="auralys_import_all_matched">All songs were found.</string>
+    <string name="auralys_import_unmatched">Not found on YouTube Music: %1$d</string>
+    <string name="auralys_import_unmatched_more">and %1$d more</string>
+    <string name="auralys_import_spotify_limit_note">Playlists over 100 songs take a little longer: Auralys opens the Spotify page in the background to read the rest.</string>
+    <string name="auralys_import_truncated_spotify">This playlist may contain more than 100 songs, but the rest could not be read; only the first 100 were imported.</string>
+    <string name="auralys_import_fail_timeout">The Spotify page took too long to load, so only the first %1$d songs were imported. Try again with a steadier connection.</string>
+    <string name="auralys_import_fail_network">The Spotify page could not be opened, so only the first %1$d songs were imported. Check your internet connection and try again.</string>
+    <string name="auralys_import_fail_memory">The device ran out of memory while reading the playlist, so only the first %1$d songs were imported. Close other apps and try again.</string>
+    <string name="auralys_import_fail_page">The full song list could not be read from the Spotify page (its layout may have changed), so only the first %1$d songs were imported.</string>
+    <string name="auralys_import_fail_unavailable">This device cannot open the Spotify page in the background (Android System WebView is not available), so only the first %1$d songs were imported.</string>
+    <string name="auralys_import_diag_show">Technical details ▸</string>
+    <string name="auralys_import_diag_hide">Technical details ▾</string>
+    <string name="auralys_import_diag_copy">Copy</string>
+    <string name="auralys_import_diag_copied">Technical details copied</string>
+    <string name="auralys_import_truncated">Only %1$d of %2$d songs could be read from this link.</string>
+    <string name="auralys_import_error_invalid">Link not recognised. Use a public playlist or album link.</string>
+    <string name="auralys_import_error_fetch">The playlist could not be read. Check the link and your connection.</string>
+    <string name="auralys_import_error_empty">No songs were found in this playlist.</string>
+    <string name="auralys_import_error_no_matches">None of the songs were found on YouTube Music.</string>
+    <string name="auralys_import_error_save">The playlist could not be saved.</string>
+    <string name="auralys_import_cancelled">Import cancelled.</string>
+    <string name="auralys_import_clipboard_empty">Clipboard is empty</string>
+</resources>

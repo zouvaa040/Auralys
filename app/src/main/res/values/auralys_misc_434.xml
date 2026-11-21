@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Round 4.3.4, workstream D: playlist cover and the streak on the home-screen widget. -->
+<resources>
+    <string name="auralys434_cover_not_changed">The cover could not be changed. Try again.</string>
+    <string name="auralys434_widget_show_streak">Show streak</string>
+    <plurals name="auralys434_widget_streak_desc">
+        <item quantity="one">Streak: %d day</item>
+        <item quantity="other">Streak: %d days</item>
+    </plurals>
+</resources>

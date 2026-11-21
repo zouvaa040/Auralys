@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dynamic_island_pill_height">Height</string>
+    <string name="dynamic_island_fine_x">Fine horizontal shift</string>
+    <string name="dynamic_island_fit_camera">Fit to the front camera</string>
+    <string name="dynamic_island_fit_camera_desc">Centres the island on the camera hole and matches its size</string>
+    <string name="dynamic_island_fit_camera_none">No camera cut-out found on this phone. Use the sliders instead.</string>
+</resources>

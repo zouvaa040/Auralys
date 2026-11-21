@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auralys_streak_goal_short">
+        <item quantity="other">%1$s · %2$d hari lagi</item>
+    </plurals>
+    <string name="auralys_streak_stat_longest">Terpanjang</string>
+    <string name="auralys_streak_stat_total">Total hari</string>
+    <string name="auralys_streak_stat_recoveries">Pemulihan</string>
+</resources>

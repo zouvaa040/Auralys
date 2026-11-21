@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aw_previous">Sebelumnya</string>
+    <string name="aw_next">Berikutnya</string>
+    <string name="aw_config_title">Pengaturan widget</string>
+    <string name="aw_config_style">Gaya</string>
+    <string name="aw_style_glass">Kaca</string>
+    <string name="aw_style_dark">Gelap</string>
+    <string name="aw_style_light">Terang</string>
+    <string name="aw_style_cover">Warna cover</string>
+    <string name="aw_config_opacity">Transparansi: %1$d%%</string>
+    <string name="aw_config_cover_shape">Bentuk cover</string>
+    <string name="aw_shape_rounded">Membulat</string>
+    <string name="aw_shape_circle">Lingkaran</string>
+    <string name="aw_config_show_progress">Tampilkan bar progres</string>
+    <string name="aw_config_show_like">Tampilkan tombol suka</string>
+    <string name="aw_config_done">Selesai</string>
+    <string name="aw_sample_title">Judul lagu</string>
+    <string name="aw_sample_artist">Nama artis</string>
+    <string name="aw_description">Lagu yang sedang diputar lengkap dengan tombol kontrol. Pilih tampilan: kaca, gelap, terang, atau warna cover.</string>
+    <string name="aw_config_tint">Warna aksen</string>
+    <string name="aw_tint_auto">Dari cover</string>
+    <string name="aw_config_shine">Kilau kaca: %1$d%%</string>
+    <string name="aw_shape_square">Kotak</string>
+    <string name="aw_config_text_size">Ukuran teks</string>
+    <string name="aw_size_small">Kecil</string>
+    <string name="aw_size_medium">Sedang</string>
+    <string name="aw_size_large">Besar</string>
+    <string name="aw_config_play_button">Tombol putar</string>
+    <string name="aw_play_filled">Bulat</string>
+    <string name="aw_play_plain">Polos</string>
+    <string name="aw_config_show_cover">Tampilkan cover</string>
+    <string name="aw_config_show_time">Tampilkan waktu</string>
+    <string name="aw_config_show_skip">Tampilkan tombol sebelumnya dan berikutnya</string>
+    <string name="aw_style_clear">Kaca bening</string>
+    <string name="aw_config_edge">Ketebalan kaca (lensa + tepi): %1$d%%</string>
+    <string name="aw_config_corner">Kebulatan sudut: %1$d%%</string>
+    <string name="aw_config_frost">Frost (blur cover): %1$d%%</string>
+    <string name="aw_name_wide">Auralys Player 4×2</string>
+    <string name="aw_name_square">Auralys Player 2×2</string>
+    <string name="aw_name_strip">Auralys Player 4×1</string>
+    <string name="aw_name_tall">Auralys Player 2×4</string>
+    <string name="aw_name_tiny">Auralys Player 1×1</string>
+    <string name="aw_config_size_hint">Ukuran mengikuti widget yang kamu pilih di daftar widget (4×2, 2×2, 4×1, 2×4, atau 1×1). Untuk mengubahnya nanti, tekan lama widget lalu tarik pegangannya.</string>
+</resources>

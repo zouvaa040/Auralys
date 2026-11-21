@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Settings home: search + shelf of categories -->
+    <string name="hub_search_hint">Search settings…</string>
+    <string name="hub_search_clear">Clear search</string>
+    <string name="hub_search_empty">No setting matches</string>
+    <string name="hub_search_empty_hint">Try another word, like “lyrics” or “cache”.</string>
+    <string name="hub_shelf">All settings</string>
+    <string name="hub_new_version">New version %1$s</string>
+
+    <string name="hub_cat_player">Sound &amp; playback</string>
+    <string name="hub_cat_appearance">Look &amp; style</string>
+    <string name="hub_cat_content">Language &amp; content</string>
+    <string name="hub_cat_ai">Lyrics &amp; translation</string>
+    <string name="hub_cat_privacy">Privacy &amp; history</string>
+    <string name="hub_cat_storage">Storage</string>
+    <string name="hub_cat_backup">Backup &amp; import</string>
+    <string name="hub_cat_integrations">Connected apps</string>
+    <string name="hub_cat_auto">Android Auto</string>
+    <string name="hub_cat_links">Links</string>
+    <string name="hub_cat_update">Updates</string>
+    <string name="hub_cat_about">About Auralys</string>
+
+    <string name="hub_cap_player">Audio quality, crossfade, queue, sleep timer</string>
+    <string name="hub_cap_appearance">Theme, app icon, player, lyrics, Dynamic Island</string>
+    <string name="hub_cap_content">Language, country, lyric sources, proxy</string>
+    <string name="hub_cap_ai">AI translation, romanization</string>
+    <string name="hub_cap_privacy">Listen and search history, screenshots</string>
+    <string name="hub_cap_storage">Song and image cache, downloads</string>
+    <string name="hub_cap_backup">Back up, restore, import playlists</string>
+    <string name="hub_cap_integrations">Last.fm, Discord, Listen Together</string>
+    <string name="hub_cap_auto">Playlists and search in the car</string>
+    <string name="hub_cap_links">Open YouTube Music links in Auralys</string>
+    <string name="hub_cap_update">Check for a newer version</string>
+    <string name="hub_cap_about">Version, updates and credits</string>
+
+    <!-- Library -->
+    <string name="lib_tab_all">All</string>
+    <string name="lib_collections">Collections</string>
+    <string name="lib_col_liked">Songs you liked</string>
+    <string name="lib_col_downloaded">Ready to play offline</string>
+    <string name="lib_col_cached">Saved automatically as you listen</string>
+    <string name="lib_col_top">What you play the most</string>
+    <string name="lib_col_uploaded">What you uploaded</string>
+    <string name="lib_new_playlist">New playlist</string>
+
+    <!-- Home section names -->
+    <string name="home_s_keep">Keep going</string>
+    <string name="home_s_picks">Picked for you</string>
+    <string name="home_s_gotos">Your go-tos</string>
+    <string name="home_s_fresh">Fresh today</string>
+    <string name="home_s_mixes">Mixes for you</string>
+    <string name="home_s_forgotten">Almost forgotten</string>
+    <string name="home_s_similar">More like</string>
+    <string name="home_s_community">Picks from listeners</string>
+    <string name="home_s_mood">Moods &amp; genres</string>
+
+    <!-- You tab -->
+    <string name="you_title">You</string>
+    <string name="you_section_activity">Activity</string>
+    <string name="you_section_tools">Tools</string>
+    <string name="you_cap_history">Songs you played recently</string>
+    <string name="you_stats_recap">Stats &amp; Recap</string>
+    <string name="you_cap_stats">Your listening in numbers, and your yearly recap</string>
+    <string name="you_cap_together">Listen in sync with friends</string>
+    <string name="you_recognize">Identify a song</string>
+    <string name="you_cap_recognize">Find out what is playing around you</string>
+    <string name="you_cap_equalizer">Shape the sound to your taste</string>
+    <string name="you_cap_settings">Sound, look, data and more</string>
+    <string name="you_cap_about">Version, updates and credits</string>
+
+    <string name="home_random">Play something random</string>
+    <string name="web_update_title">New version available</string>
+    <string name="web_update_message">Auralys %1$s is out. You are on %2$s. The update brings fixes and new features.</string>
+    <string name="web_update_now">Update now</string>
+    <string name="web_update_later">Later</string>
+    <string name="web_update_check">Check for updates</string>
+    <string name="web_update_checking">Checking…</string>
+    <string name="web_update_latest">Auralys is up to date (%1$s).</string>
+    <string name="web_update_failed">Could not check for updates. Check your internet connection.</string>
+</resources>

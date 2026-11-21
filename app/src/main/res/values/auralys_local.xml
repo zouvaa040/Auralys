@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Songs on the device (audio files on the phone) -->
+<resources>
+    <string name="local_music_title">On this device</string>
+    <string name="lib_col_local">Songs stored on this phone</string>
+    <string name="local_unknown_artist">Unknown artist</string>
+    <string name="local_untitled">Untitled</string>
+    <string name="local_permission_title">Allow access to songs on this phone</string>
+    <string name="local_permission_body">Auralys needs permission to read audio files so it can show and play the songs on this phone.</string>
+    <string name="local_permission_blocked">Permission was denied. Open settings and allow access to music and audio.</string>
+    <string name="local_permission_grant">Allow</string>
+    <string name="local_open_settings">Open settings</string>
+    <string name="local_scan">Scan again</string>
+    <string name="local_scanning">Scanning… %1$d</string>
+    <string name="local_scan_failed">Scan failed. Try again.</string>
+    <string name="local_scan_changes">%1$d new, %2$d removed</string>
+    <string name="local_empty">No songs on this phone</string>
+</resources>

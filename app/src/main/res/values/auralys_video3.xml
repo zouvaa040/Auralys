@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Video mode (video/ package) -->
+    <string name="video3_mode">Video mode</string>
+    <string name="video3_auto_from_search">Play video automatically from Video results</string>
+    <string name="video3_audio">Audio</string>
+    <string name="video3_video">Video</string>
+    <string name="video3_failed">The video could not be played</string>
+    <string name="video3_unavailable">No video available</string>
+</resources>

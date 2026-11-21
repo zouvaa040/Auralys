@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auralys_streak_longest">
+        <item quantity="other">Terpanjang: %d hari</item>
+    </plurals>
+    <plurals name="auralys_streak_total">
+        <item quantity="other">%d hari mendengarkan</item>
+    </plurals>
+    <plurals name="auralys_streak_poster_days">
+        <item quantity="other">hari berturut-turut</item>
+    </plurals>
+    <plurals name="auralys_streak_gallery_days">
+        <item quantity="other">%d hari</item>
+    </plurals>
+
+    <string name="auralys_streak_status_none">Putar satu lagu hari ini untuk mulai streak</string>
+    <string name="auralys_streak_status_waiting">Apimu sedang istirahat. Putar satu lagu hari ini agar menyala lagi</string>
+    <string name="auralys_streak_status_active">Menyala! Kembali besok agar tidak putus</string>
+    <string name="auralys_streak_status_recoverable">Kemarin kelewat. Dengarkan %1$d menit hari ini untuk memulihkan apimu</string>
+    <string name="auralys_streak_recovery_progress">%1$d / %2$d menit</string>
+    <string name="auralys_streak_recoveries_left">Sisa pemulihan bulan ini: %1$d dari %2$d</string>
+    <string name="auralys_streak_recovered_today">Api dipulihkan hari ini</string>
+    <string name="auralys_streak_recovery_blocked">Jatah pemulihan bulan ini habis, jadi streak lama berakhir</string>
+    <string name="auralys_streak_goal">Api berikutnya: %1$s di %2$d hari · tinggal %3$d lagi</string>
+    <string name="auralys_streak_all_done">Semua api sudah terbuka</string>
+    <string name="auralys_streak_share">Bagikan streak</string>
+    <string name="auralys_streak_share_failed">Gagal membuat gambar</string>
+    <string name="auralys_streak_gallery_open">Semua api</string>
+    <string name="auralys_streak_gallery_title">Gaya api</string>
+    <string name="auralys_streak_gallery_subtitle">Makin lama streak-mu, makin panas apinya. Ini semua tampilannya sampai 1000 hari.</string>
+    <string name="auralys_streak_gallery_here">Kamu di sini</string>
+    <string name="auralys_streak_gallery_unlocked">Terbuka</string>
+    <string name="auralys_streak_gallery_togo">Tinggal %d lagi</string>
+    <string name="auralys_streak_home_setting">Streak di Beranda</string>
+    <string name="auralys_streak_home_setting_desc">Tampilkan apimu di bagian atas Beranda</string>
+    <string name="auralys_streak_poster_label">STREAK MENDENGARKAN</string>
+    <string name="auralys_streak_poster_longest">TERPANJANG</string>
+    <string name="auralys_streak_poster_total">HARI MENDENGARKAN</string>
+    <string name="auralys_streak_poster_next">Api berikutnya: %1$s di %2$d hari</string>
+
+    <string name="auralys_flame_0">Padam</string>
+    <string name="auralys_flame_1">Percikan</string>
+    <string name="auralys_flame_2">Menyala</string>
+    <string name="auralys_flame_3">Membara</string>
+    <string name="auralys_flame_4">Berkobar</string>
+    <string name="auralys_flame_5">Inferno</string>
+    <string name="auralys_flame_6">Api Biru</string>
+    <string name="auralys_flame_7">Plasma</string>
+    <string name="auralys_flame_8">Legenda</string>
+    <string name="auralys_flame_9">Abadi</string>
+</resources>

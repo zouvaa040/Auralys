@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_provider_google_label">Google Translate (free)</string>
+    <string name="ai_provider_google_help">Translates each lyric line with Google Translate. No account or API key needed, it only requires an internet connection. Pick an AI provider instead if you want more natural, context-aware translations.</string>
+    <string name="ai_provider_google_ready">Ready to use</string>
+    <string name="ai_provider_google_ready_desc">No API key needed. Choose the target language below and tap translate in the lyrics menu.</string>
+</resources>

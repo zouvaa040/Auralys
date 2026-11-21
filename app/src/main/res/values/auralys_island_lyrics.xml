@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dynamic_island_content_cover_lyric">Cover and lyric line</string>
+    <string name="dynamic_island_show_lyrics">Show lyrics</string>
+    <string name="dynamic_island_lyrics_loading">Loading lyrics...</string>
+    <string name="dynamic_island_lyrics_plain">These lyrics have no timing.</string>
+    <string name="dynamic_island_lyrics_none">This song has no running lyrics.</string>
+    <string name="dynamic_island_content_lyric_only">Lyrics only</string>
+    <string name="player_output_device">Output device</string>
+    <string name="keep_playing_on_focus_loss">Keep playing next to games</string>
+    <string name="island_accessibility_label">Auralys Dynamic Island</string>
+    <string name="island_accessibility_description">Only used to show the Auralys Dynamic Island in front of the status bar. It does not read the screen, receives no events and does not control other apps.</string>
+    <string name="dynamic_island_service">Accessibility service</string>
+    <string name="dynamic_island_service_on">On. The island is in front of the status bar</string>
+    <string name="dynamic_island_service_off">Not on yet. Turn on Auralys Dynamic Island in Settings > Accessibility. If it is locked: App info > three dots > Allow restricted settings</string>
+    <string name="dynamic_island_placement">Position</string>
+    <string name="dynamic_island_placement_floating">Floating</string>
+    <string name="dynamic_island_placement_attached">Attached to the top edge</string>
+    <string name="dynamic_island_lyric_camera">Fit the lyrics around the camera</string>
+    <string name="dynamic_island_sample_lyric">A sample lyric line long enough to reach the middle</string>
+    <string name="dynamic_island_camera_gap">Camera gap width</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="collapse_nav_on_scroll_title">Collapse navigation bar on scroll</string>
+    <string name="collapse_nav_on_scroll_desc">Shrinks the bar to the current tab while scrolling down; scroll up or tap to bring it back</string>
+    <string name="nav_bar_expand">Show navigation bar</string>
+</resources>

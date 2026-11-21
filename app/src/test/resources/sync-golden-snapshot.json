@@ -1,0 +1,32 @@
+{
+  "v": 1,
+  "platform": "android",
+  "createdAt": 1793880000000,
+  "songs": [
+    {"id": "dQw4w9WgXcQ", "title": "Never Gonna Give You Up", "artist": "Rick Astley", "artistId": "UCuAXFkgsw1L7xaCfnd5JJOw", "album": "Whenever You Need Somebody", "albumId": "MPREb_abc123", "duration": 213, "thumb": "https://lh3.googleusercontent.com/example=w544-h544"},
+    {"id": "kJQP7kiw5Fk", "title": "Despacito (feat. Daddy Yankee)", "artist": "Luis Fonsi, Daddy Yankee", "duration": 229},
+    {"id": "9bZkp7q19f0", "title": "Lagu \"Tes\" — dengan karakter 日本語 & emoji 🎵", "artist": "Penyanyi Contoh", "thumb": null}
+  ],
+  "liked": [
+    {"id": "dQw4w9WgXcQ", "at": 1793800000000},
+    {"id": "kJQP7kiw5Fk"}
+  ],
+  "playlists": [
+    {"sid": "LPabcdefgh", "name": "Santai Sore", "createdAt": 1793000000000, "songs": ["dQw4w9WgXcQ", "kJQP7kiw5Fk", "9bZkp7q19f0"]},
+    {"sid": "pl-1793100000000", "name": "Favorit", "createdAt": 1793100000000, "songs": []},
+    {"sid": "LPonline01", "name": "Playlist online", "createdAt": 1793200000000, "songs": ["kJQP7kiw5Fk"], "browseId": "VLPLabcdefghijklmnop"}
+  ],
+  "saved": [
+    {"kind": "album", "id": "MPREb_abc123", "title": "Whenever You Need Somebody", "subtitle": "Rick Astley", "thumb": "https://lh3.googleusercontent.com/example=w544-h544"},
+    {"kind": "artist", "id": "UCuAXFkgsw1L7xaCfnd5JJOw", "title": "Rick Astley"},
+    {"kind": "playlist", "id": "PLabcdefghijklmnop", "title": "Mix mingguan", "subtitle": "YouTube Music"}
+  ],
+  "events": [
+    {"id": "dQw4w9WgXcQ", "at": 1793870000000, "ms": 212000},
+    {"id": "dQw4w9WgXcQ", "at": 1793873000123, "ms": 45000},
+    {"id": "kJQP7kiw5Fk", "at": 1793875000000, "ms": 229000}
+  ],
+  "searches": ["rick astley", "lagu santai", "Dewa 19"],
+  "days": [20400, 20401, 20402],
+  "futureField": {"ignored": true}
+}

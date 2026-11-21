@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lock_lyrics_title">Lyrics on lock screen</string>
+    <string name="lock_lyrics_desc">Shown when you turn the screen on while a song plays</string>
+    <string name="lock_lyrics_permission_title">Lock screen permission</string>
+    <string name="lock_lyrics_permission_missing">Not allowed yet. Tap to allow \"Display over other apps\".</string>
+    <string name="lock_lyrics_permission_ok">If it does not appear, allow \"Show on lock screen\" in App info.</string>
+    <string name="lock_lyrics_swipe">Swipe up to unlock</string>
+</resources>

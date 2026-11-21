@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Lensa kaca: bilah navigasi dan mini player membelokkan gambar di belakangnya (gaya Kaca, Android 13 ke atas) -->
+    <string name="glass_lens_title">Efek lensa kaca</string>
+</resources>

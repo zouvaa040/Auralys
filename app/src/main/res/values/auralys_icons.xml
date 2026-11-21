@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auralys_app_icon">App icon style</string>
+    <string name="auralys_app_icon_desc">Pick how the icon looks on your home screen</string>
+    <string name="auralys_app_icon_note">The launcher can take a few seconds to show the new icon.</string>
+    <string name="auralys_icon_default">Default</string>
+    <string name="auralys_icon_night">Night</string>
+    <string name="auralys_icon_glass">Glass</string>
+    <string name="auralys_icon_gold">Gold</string>
+    <string name="auralys_icon_forest">Forest</string>
+    <string name="auralys_icon_ocean">Ocean</string>
+    <string name="auralys_icon_senja">Sunset</string>
+    <string name="auralys_icon_piringan">Vinyl</string>
+    <string name="auralys_icon_neon">Neon</string>
+    <string name="auralys_icon_gema">Echo</string>
+    <string name="auralys_icon_bintang">Stars</string>
+    <string name="auralys_icon_aurora">Aurora</string>
+    <string name="auralys_icon_sakura">Sakura</string>
+    <string name="auralys_icon_mono">Mono</string>
+    <string name="auralys_icon_kopi">Coffee</string>
+    <string name="auralys_icon_ruby">Ruby</string>
+    <string name="auralys_icon_matcha">Matcha</string>
+    <string name="auralys_icon_lavender">Lavender</string>
+    <string name="auralys_icon_mewah">Luxe</string>
+    <string name="auralys_icon_cair">Liquid</string>
+</resources>

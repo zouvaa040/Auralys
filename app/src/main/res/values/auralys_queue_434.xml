@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 4.3.4 queue / shuffle / autoplay (workstream B) -->
+<resources>
+    <string name="auralys_autoplay_no_repeat">Don\'t repeat songs in autoplay</string>
+    <string name="auralys_queue_remove_played">Remove played songs</string>
+    <plurals name="auralys_queue_remove_played_message">
+        <item quantity="one">The song above the one playing now will be removed from the queue.</item>
+        <item quantity="other">The %d songs above the one playing now will be removed from the queue.</item>
+    </plurals>
+    <string name="auralys_queue_remove_played_confirm">Remove</string>
+    <plurals name="auralys_queue_removed_played">
+        <item quantity="one">%d song removed from the queue</item>
+        <item quantity="other">%d songs removed from the queue</item>
+    </plurals>
+</resources>

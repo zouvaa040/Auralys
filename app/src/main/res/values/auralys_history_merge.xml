@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Merge of the account's listening history into the local play history (Recap and streak use it) -->
+    <string name="auralys_history_merge_title">Merge history from account</string>
+    <string name="auralys_history_merge_now">Merge now</string>
+    <string name="auralys_history_merge_never">Never</string>
+    <string name="auralys_history_merge_running">Merging…</string>
+    <string name="auralys_history_merge_failed">Failed. Try again later.</string>
+    <string name="auralys_history_merge_signed_out">Sign in first</string>
+    <string name="auralys_history_merge_paused">Listen history is paused</string>
+    <plurals name="auralys_history_merge_last">
+        <item quantity="one">Last: %1$s, %2$d play added</item>
+        <item quantity="other">Last: %1$s, %2$d plays added</item>
+    </plurals>
+    <plurals name="auralys_history_merge_done">
+        <item quantity="one">History from your account merged: %1$d play</item>
+        <item quantity="other">History from your account merged: %1$d plays</item>
+    </plurals>
+</resources>

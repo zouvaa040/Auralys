@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_family_title">Gaya ikon</string>
+    <string name="icon_family_line">Garis</string>
+    <string name="icon_family_ios">iOS</string>
+    <string name="icon_family_round">Bulat</string>
+</resources>

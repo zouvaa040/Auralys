@@ -1,0 +1,57 @@
+Auralys bundles source from the following open-source projects. Their licences apply to those parts.
+
+Liquid Glass engine (app/src/main/kotlin/com/metrolist/music/ui/component/backdrop)
+  Kyant0/backdrop v2 and Kyant0/AndroidLiquidGlass catalog components
+  Copyright 2025 Kyant0, Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+  Taken from the vendored copy in Convx (https://github.com/cosmictaserdev-creator/Convx, GPL-3.0),
+  with the package renamed and small changes (accent colour parameters, long-press on tabs).
+
+Based on Metrolist (GPL-3.0) and its contributors; the application as a whole is distributed under GPL-3.0.
+
+Icons, three families (Appearance > Icon style): "Garis" = Lucide (ISC licence, (c) Lucide Contributors and Cole Bemis / Feather, MIT);
+  "iOS" = Ionicons (MIT licence, (c) Ionic, https://github.com/ionic-team/ionicons) plus a few glyphs drawn by hand in the same grid
+  and pen, generated into app/src/main/res/drawable/cx_*.xml by Tools/build_ios_twins.py; "Bulat" = Material Icons Rounded
+  (Apache 2.0, androidx material-icons-extended) and custom 2.2 px strokes (ui/component/BulatIcons.kt).
+Fonts: SIL Open Font License / Apache 2.0 (Inter, Nunito, Nunito Sans, Arimo, Albert Sans, Jost, Figtree,
+  Gelasio, Newsreader, Playfair Display, Space Grotesk, DM Sans, JetBrains Mono, Rubik, Caveat).
+Typeface of the app (app/src/main/res/font/plus_jakarta_sans.ttf): Plus Jakarta Sans, variable weight 200-800,
+  Copyright 2020 The Plus Jakarta Sans Project Authors (https://github.com/tokotype/PlusJakartaSans),
+  SIL Open Font License 1.1. Unmodified copy from github.com/google/fonts (ofl/plusjakartasans).
+  Licence text: app/src/main/assets/licenses/PlusJakartaSans-OFL.txt (the file is also inside the APK assets).
+Motion polish (Liquid Glass only): adapted from Convx (https://github.com/cosmictaserdev-creator/Convx, GPL-3.0):
+  - app/src/main/kotlin/com/metrolist/music/ui/component/shimmer/ShimmerHost.kt (layer-isolated shimmer with bottom fade),
+    from Convx ui/component/shimmer/ShimmerHost.kt
+  - app/src/main/kotlin/com/metrolist/music/ui/component/motion/GooeyTransition.kt (blur + alpha-threshold merge effect),
+    from Convx ui/component/floatingtabbar/GooeyTransition.kt
+  - app/src/main/kotlin/com/metrolist/music/ui/component/motion/NavBarFold.kt and the folded navigation pill in
+    ui/component/AppNavigation.kt, modelled on Convx FloatingTabBarScrollConnection / FoldingTabBar.
+Playlist import by link (utils/PlaylistLinkImport.kt, viewmodels/PlaylistLinkImportViewModel.kt,
+  ui/screens/settings/PlaylistLinkImportDialog.kt): Apple Music link parsing, title normalisation and the import flow
+  adapted from Convx (https://github.com/cosmictaserdev-creator/Convx, GPL-3.0) canvas/AppleMusicPlaylist.kt,
+  AppleMusicCatalog.kt and viewmodels/AppleMusicImportViewModel.kt.
+
+Ambient mode and animated artwork (app/src/main/kotlin/com/metrolist/music/ui/screens/ambient,
+  app/src/main/kotlin/com/metrolist/music/canvas, app/src/main/kotlin/com/metrolist/music/ui/player/AnimatedArtwork.kt):
+  adapted from Convx (https://github.com/cosmictaserdev-creator/Convx, GPL-3.0): AmbientModeScreen.kt,
+  canvas/AppleMusicCatalog.kt, applecanvas/AppleMusicCanvasProvider.kt and ui/player/CanvasArtworkPlayer.kt.
+  Motion artwork is looked up in Apple Music's public catalog; videos and artwork remain the property of their owners.
+
+Spotify Canvas as animated covers (app/src/main/kotlin/com/metrolist/music/spotify/SpotifyCanvas*.kt, used by canvas/AnimatedArtworkRepository.kt):
+  the flow (track search, then the track's canvas on Pathfinder v2, query hashes read from the web player's scripts, the rules
+  that decide which result is the same recording) is adapted from BitChord (https://github.com/kushagrasinghx/BitChord, GPL-3.0):
+  data/canvas/SpotifyCanvas.kt, SpotifyCanvasQuery.kt, web/extension/lib/spotify.ts and TrackMatcher; rewritten for Auralys.
+  Canvas videos remain the property of their owners.
+
+Spotify account in the Library (app/src/main/kotlin/com/metrolist/music/spotify, ui/screens/library/SpotifyLibraryScreen.kt and
+  SpotifyPlaylistScreen.kt, ui/screens/settings/SpotifySettings.kt): the flow of signing in with the user's own Spotify session
+  (sp_dc cookie), reading a web-player token from an offscreen web view, the Pathfinder GraphQL queries for playlists, a
+  playlist's tracks and Liked Songs, the reading of the query hashes from the web player's scripts, and the pages that show the
+  list at once and match its songs to YouTube Music in the background are adapted from BitChord
+  (https://github.com/kushagrasinghx/BitChord, GPL-3.0): auth/SpotifyLoginScreen.kt, data/canvas/SpotifyToken.kt,
+  data/spotify/SpotifyLibrary.kt, SpotifyImporter.kt, the Spotify library screen and web/docs/spotify-and-discord.md.
+  Auralys re-implements the ideas; the sign-in cookie is kept in a private file that is left out of backups. Spotify's
+  content and artwork remain the property of their owners; Auralys never plays Spotify audio.
+
+Song poster cut-out (app/src/main/assets/poster/modnet_q.bin, code in app/src/main/kotlin/com/metrolist/music/poster/cutout):
+  MODNet portrait matting (Zhanghan Ke et al., https://github.com/ZHKKKe/MODNet), Apache License 2.0,
+  converted and compressed by Auralys; details and hashes in app/src/main/assets/licenses/NOTICE-poster.txt (also inside the APK assets).

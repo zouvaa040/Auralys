@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Glass lens: the bar and the mini player bend the picture behind them (Glass style, Android 13 and up) -->
+    <string name="glass_lens_title">Glass lens effect</string>
+</resources>

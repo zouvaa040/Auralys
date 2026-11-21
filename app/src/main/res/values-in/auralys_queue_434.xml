@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 4.3.4 queue / shuffle / autoplay (workstream B) -->
+<resources>
+    <string name="auralys_autoplay_no_repeat">Putar otomatis tanpa lagu berulang</string>
+    <string name="auralys_queue_remove_played">Hapus lagu yang sudah diputar</string>
+    <plurals name="auralys_queue_remove_played_message">
+        <item quantity="other">%d lagu di atas lagu yang sedang diputar akan dihapus dari antrean.</item>
+    </plurals>
+    <string name="auralys_queue_remove_played_confirm">Hapus</string>
+    <plurals name="auralys_queue_removed_played">
+        <item quantity="other">%d lagu dihapus dari antrean</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auralys_vibe_title">Gaya suara</string>
+    <string name="auralys_vibe_desc">Sped up, slowed + reverb, lo-fi, 8D, dan lainnya</string>
+    <string name="auralys_vibe_normal">Normal</string>
+    <string name="auralys_vibe_normal_desc">Lagu apa adanya</string>
+    <string name="auralys_vibe_sped_up">Sped up</string>
+    <string name="auralys_vibe_sped_up_desc">Lebih cepat dan tinggi, seperti versi sped up</string>
+    <string name="auralys_vibe_slowed">Slowed + reverb</string>
+    <string name="auralys_vibe_slowed_desc">Lebih pelan dan rendah, dengan gema lembut</string>
+    <string name="auralys_vibe_nightcore">Nightcore</string>
+    <string name="auralys_vibe_nightcore_desc">Jauh lebih cepat dan tinggi, 1.4x</string>
+    <string name="auralys_vibe_lofi">Lo-fi</string>
+    <string name="auralys_vibe_lofi_desc">Hangat dan santai, sedikit lebih pelan, dengan gema tipis</string>
+    <string name="auralys_vibe_8d">8D</string>
+    <string name="auralys_vibe_8d_desc">Suara berputar di sekeliling kepala. Paling enak pakai headset</string>
+    <string name="auralys_vibe_concert">Konser</string>
+    <string name="auralys_vibe_concert_desc">Gema ruangan besar seperti aula konser</string>
+</resources>

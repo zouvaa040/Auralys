@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Lyrics view: blur on the lines around the one being sung -->
+    <string name="auralys_lyrics_blur">Blur other lines</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spotify account: the user's playlists and Liked Songs in the Library (songs are matched to YouTube Music) -->
+    <string name="spotify_title">Spotify</string>
+    <string name="spotify_connect">Connect Spotify</string>
+    <!-- the line under "Connect Spotify" next to the YouTube Music sign-in (You tab and Settings) -->
+    <string name="spotify_connect_desc">Your playlists and liked songs appear in the Library</string>
+    <string name="spotify_settings_intro">Your Spotify playlists and Liked Songs appear in the Library. Songs still play through YouTube Music.</string>
+    <string name="spotify_settings_privacy">Your sign-in is kept on this phone and is not part of backups.</string>
+    <string name="spotify_connected">Connected</string>
+    <string name="spotify_connected_as">Connected as %1$s</string>
+    <string name="spotify_disconnect">Disconnect</string>
+    <string name="spotify_disconnect_title">Disconnect Spotify?</string>
+    <string name="spotify_disconnect_message">Spotify playlists no longer appear in the Library. Playlists you saved stay.</string>
+    <string name="spotify_login_title">Sign in to Spotify</string>
+    <string name="spotify_login_failed">Could not save the sign-in</string>
+
+    <string name="spotify_liked">Liked Songs</string>
+    <string name="spotify_liked_saved_name">Liked Songs (Spotify)</string>
+    <string name="spotify_library_empty">No playlists found on this account</string>
+    <string name="spotify_empty_playlist">This playlist has no songs</string>
+    <string name="spotify_reconnect">Connect again</string>
+
+    <string name="spotify_err_expired">The Spotify sign-in has expired. Connect again.</string>
+    <string name="spotify_err_token">Could not sign in to Spotify. Try again.</string>
+    <string name="spotify_err_rate">Spotify is busy. Try again in a moment.</string>
+    <string name="spotify_err_changed">Spotify changed its service. Try again later.</string>
+    <string name="spotify_err_network">No connection to Spotify.</string>
+    <string name="spotify_err_other">Could not load from Spotify.</string>
+
+    <string name="spotify_matching">Matching %1$d of %2$d</string>
+    <string name="spotify_not_found">Not found on YouTube Music</string>
+    <string name="spotify_missing_count">%1$d not found</string>
+    <string name="spotify_match_again">Match again</string>
+    <string name="spotify_save">Save to Library</string>
+    <string name="spotify_saving">Saving</string>
+    <string name="spotify_saved">Saved to Library</string>
+    <string name="spotify_open_saved">Open in Library</string>
+    <string name="spotify_save_failed">Could not save</string>
+    <string name="spotify_truncated">Only the first %1$d songs are shown</string>
+
+    <!-- The Spotify page: the hero and its three benefits (the first one is spotify_connect_desc, the last one spotify_canvas_title) -->
+    <string name="spotify_hero_sub">Bring your Spotify playlists into Auralys</string>
+    <string name="spotify_benefit_play">Songs still play through YouTube Music</string>
+
+    <!-- The account tiles (You tab and Settings), one per sign-in -->
+    <string name="acct_pitch_ytm">Sync your library and playlists</string>
+    <string name="acct_pitch_spotify">Your playlists in the Library</string>
+    <string name="acct_action_login">Sign in</string>
+    <string name="acct_action_connect">Connect</string>
+    <string name="acct_action_manage">Manage</string>
+    <string name="acct_connected_as">Connected as %1$s</string>
+
+    <!-- The sign-in screens (YouTube Music and Spotify share them) -->
+    <string name="login_privacy_google">Sign in on Google\'s official page. Auralys never sees your password.</string>
+    <string name="login_privacy_spotify">Sign in on Spotify\'s official page. Auralys never sees your password.</string>
+    <string name="login_loading">Opening the sign-in page</string>
+    <string name="login_connecting">Connecting</string>
+    <string name="login_offline_title">No connection</string>
+    <string name="login_offline_message">Check your internet, then try again.</string>
+</resources>

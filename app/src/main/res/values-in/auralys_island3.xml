@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Presets -->
+    <string name="dynamic_island_presets">Preset</string>
+    <string name="dynamic_island_presets_hint">Tampilan siap pakai diterapkan dengan sekali ketuk</string>
+    <string name="dynamic_island_preset_custom">Tampilan kustom</string>
+    <string name="dynamic_island_preset_iphone">iPhone</string>
+    <string name="dynamic_island_preset_glass">Kaca</string>
+    <string name="dynamic_island_preset_colourful">Berwarna</string>
+    <string name="dynamic_island_preset_minimal">Minimalis</string>
+
+    <!-- Preview -->
+    <string name="dynamic_island_preview_on_screen">Di layar</string>
+    <string name="dynamic_island_preview_expanded">Kartu diperluas</string>
+
+    <!-- Appearance -->
+    <string name="dynamic_island_appearance">Tampilan</string>
+    <string name="dynamic_island_style">Gaya</string>
+    <string name="dynamic_island_style_classic">Klasik</string>
+    <string name="dynamic_island_style_classic_desc">Hitam pekat, seperti di iPhone</string>
+    <string name="dynamic_island_style_glass">Kaca</string>
+    <string name="dynamic_island_style_glass_desc">Kaca buram gelap dengan kilau lembut</string>
+    <string name="dynamic_island_style_cover">Warna sampul</string>
+    <string name="dynamic_island_style_cover_desc">Diwarnai sesuai warna sampul lagu</string>
+    <string name="dynamic_island_style_light">Terang</string>
+    <string name="dynamic_island_style_light_desc">Kartu putih dengan teks gelap</string>
+    <string name="dynamic_island_roundness">Kelengkungan sudut</string>
+    <string name="dynamic_island_opacity">Opasitas</string>
+    <string name="dynamic_island_percent">%1$d%%</string>
+    <string name="dynamic_island_glow">Pendar</string>
+    <string name="dynamic_island_glow_desc">Cahaya lembut di sekeliling kartu yang diperluas</string>
+    <string name="dynamic_island_glow_intensity">Intensitas pendar</string>
+    <string name="dynamic_island_glow_color">Warna pendar</string>
+    <string name="dynamic_island_glow_color_cover">Sampul</string>
+    <string name="dynamic_island_glow_color_accent">Aksen aplikasi</string>
+    <string name="dynamic_island_glow_color_white">Putih</string>
+    <string name="dynamic_island_cover_shape">Bentuk sampul</string>
+    <string name="dynamic_island_cover_rounded">Persegi membulat</string>
+    <string name="dynamic_island_cover_circle">Lingkaran</string>
+    <string name="dynamic_island_spin_cover">Putar sampul saat musik diputar</string>
+    <string name="dynamic_island_spin_cover_desc">Diputar perlahan seperti piringan hitam</string>
+
+    <!-- Compact pill -->
+    <string name="dynamic_island_compact">Kapsul ringkas</string>
+    <string name="dynamic_island_pill_width">Lebar</string>
+    <string name="dynamic_island_compact_content">Isi</string>
+    <string name="dynamic_island_content_cover_eq">Sampul dan equalizer</string>
+    <string name="dynamic_island_content_cover">Hanya sampul</string>
+    <string name="dynamic_island_content_eq">Hanya equalizer</string>
+    <string name="dynamic_island_content_cover_title">Sampul dan judul bergulir</string>
+    <string name="dynamic_island_eq_style">Gaya equalizer</string>
+    <string name="dynamic_island_eq_bars">Batang</string>
+    <string name="dynamic_island_eq_wave">Gelombang</string>
+    <string name="dynamic_island_eq_dots">Titik</string>
+    <string name="dynamic_island_eq_color">Warna equalizer</string>
+    <string name="dynamic_island_eq_color_cover">Warna sampul</string>
+    <string name="dynamic_island_eq_color_white">Putih</string>
+
+    <!-- Expanded card -->
+    <string name="dynamic_island_expanded">Kartu diperluas</string>
+    <string name="dynamic_island_layout">Tata letak</string>
+    <string name="dynamic_island_layout_card">Kartu</string>
+    <string name="dynamic_island_layout_card_desc">Sampul di kiri, kontrol di bawah</string>
+    <string name="dynamic_island_layout_row">Baris ringkas</string>
+    <string name="dynamic_island_layout_row_desc">Sampul, judul, dan tombol dalam satu baris</string>
+    <string name="dynamic_island_show_artist">Tampilkan artis</string>
+    <string name="dynamic_island_show_progress">Tampilkan bilah progres</string>
+    <string name="dynamic_island_show_progress_desc">Disertai waktu berjalan dan sisa waktu</string>
+    <string name="dynamic_island_show_buttons">Tampilkan tombol</string>
+    <string name="dynamic_island_button_style">Gaya tombol</string>
+    <string name="dynamic_island_buttons_filled">Terisi</string>
+    <string name="dynamic_island_buttons_outline">Garis tepi</string>
+
+    <!-- Behaviour -->
+    <string name="dynamic_island_behaviour">Perilaku</string>
+    <string name="dynamic_island_auto_collapse">Diciutkan otomatis setelah</string>
+    <string name="dynamic_island_hide_after_pause">Disembunyikan setelah dijeda selama</string>
+    <string name="dynamic_island_seconds">%1$d dtk</string>
+    <string name="dynamic_island_only_playing">Tampilkan hanya saat diputar</string>
+    <string name="dynamic_island_only_playing_desc">Langsung disembunyikan saat pemutaran dijeda</string>
+    <string name="dynamic_island_tap_action">Ketuk pada kapsul</string>
+    <string name="dynamic_island_tap_expand">Diperluas</string>
+    <string name="dynamic_island_tap_open">Buka Auralys</string>
+    <string name="dynamic_island_tap_play_pause">Putar / jeda</string>
+    <string name="dynamic_island_long_press">Tekan lama pada kapsul</string>
+    <string name="dynamic_island_long_press_drag">Seret untuk dipindahkan</string>
+    <string name="dynamic_island_long_press_hide">Disembunyikan sampai lagu berikutnya</string>
+    <string name="dynamic_island_haptics">Umpan balik getar</string>
+    <string name="dynamic_island_animation">Animasi</string>
+    <string name="dynamic_island_animation_calm">Tenang</string>
+    <string name="dynamic_island_animation_normal">Normal</string>
+    <string name="dynamic_island_animation_bouncy">Memantul</string>
+
+    <!-- Reset and help -->
+    <string name="dynamic_island_reset_all">Atur ulang semua</string>
+    <string name="dynamic_island_reset_all_desc">Semua opsi Dynamic Island dikembalikan ke bawaan</string>
+    <string name="dynamic_island_gestures_pill">Kapsul disembunyikan sampai lagu berikutnya dengan usap ke atas. Ketuk dan tekan lama menjalankan tindakan yang dipilih di atas.</string>
+    <string name="dynamic_island_gestures_expanded">Pada kartu yang diperluas, posisi lagu diatur dengan menyeret bilahnya dan kartu ditutup dengan usap ke atas. Ketuk sampul atau judul untuk membuka Auralys.</string>
+</resources>

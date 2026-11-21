@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- the 2x4 and 1x1 widgets need the flexible layout, which only Android 12+ has -->
+    <bool name="aw_flexible_providers">false</bool>
+</resources>

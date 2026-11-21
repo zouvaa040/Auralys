@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Easy equalizer -->
+    <string name="eq_use">Use equalizer</string>
+    <string name="eq_status_off">Off</string>
+    <string name="eq_status_custom">Custom</string>
+    <string name="eq_status_preset">Preset: %1$s</string>
+    <string name="eq_status_profile">Profile: %1$s</string>
+    <string name="eq_section_presets">Presets</string>
+    <string name="eq_section_tone">Tone</string>
+    <string name="eq_tone_bass">Bass</string>
+    <string name="eq_tone_vocal">Vocals</string>
+    <string name="eq_tone_treble">Treble</string>
+    <string name="eq_db_value">%1$s dB</string>
+    <string name="eq_headroom">Volume lowered by %1$s dB so the sound does not distort</string>
+    <string name="eq_fine_tune">Fine tune by frequency</string>
+    <string name="eq_show">Show</string>
+    <string name="eq_hide">Hide</string>
+    <string name="eq_reset">Reset</string>
+    <string name="eq_save_preset">Save as preset</string>
+    <string name="eq_preset_name">Preset name</string>
+    <string name="eq_delete_preset">Delete this preset</string>
+    <string name="eq_delete_preset_confirm">Delete the preset \"%1$s\"?</string>
+    <string name="eq_section_profiles">Headphone and file profiles</string>
+    <string name="eq_profiles_empty">No profiles yet. Add one with + (AutoEQ or file).</string>
+    <string name="eq_band_description">%1$s Hz</string>
+
+    <!-- Preset names -->
+    <string name="eq_preset_flat">Flat</string>
+    <string name="eq_preset_bass">Bass boost</string>
+    <string name="eq_preset_treble">Treble boost</string>
+    <string name="eq_preset_vocal">Clear vocals</string>
+    <string name="eq_preset_pop">Pop</string>
+    <string name="eq_preset_rock">Rock</string>
+    <string name="eq_preset_jazz">Jazz</string>
+    <string name="eq_preset_classic">Classical</string>
+    <string name="eq_preset_dance">Dance</string>
+    <string name="eq_preset_hiphop">Hip-hop</string>
+    <string name="eq_preset_acoustic">Acoustic</string>
+    <string name="eq_preset_loudness">Low volume</string>
+</resources>

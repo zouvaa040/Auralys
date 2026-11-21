@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Song poster, round 4.3.5 (P2: effects without the "AI look", the sticker editor). Indonesian in values-in/auralys_poster_435.xml (same names). -->
+<resources>
+    <string name="poster_fx_key_light">Key light</string>
+    <string name="poster_fx_lens_streak">Lens streak</string>
+    <string name="poster_fx_glints">Glints</string>
+
+    <string name="poster_sticker_edit">Edit</string>
+    <string name="poster_sticker_edit_title">Edit sticker</string>
+    <string name="poster_sticker_remove_bg">Remove background</string>
+    <string name="poster_sticker_removing">Removing background…</string>
+    <string name="poster_sticker_method_person">Person</string>
+    <string name="poster_sticker_method_color">Colour</string>
+    <string name="poster_sticker_tolerance">Tolerance</string>
+    <string name="poster_sticker_smooth_edge">Smooth edge</string>
+    <string name="poster_sticker_brush">Brush</string>
+    <string name="poster_sticker_move">Move</string>
+    <string name="poster_sticker_erase">Erase</string>
+    <string name="poster_sticker_restore">Restore</string>
+    <string name="poster_sticker_brush_size">Brush size</string>
+    <string name="poster_sticker_softness">Softness</string>
+    <string name="poster_sticker_reset">Back to original</string>
+    <string name="poster_sticker_done">Done</string>
+    <string name="poster_sticker_redo">Redo</string>
+    <string name="poster_sticker_discard_title">Discard this sticker?</string>
+    <string name="poster_sticker_discard">Discard</string>
+    <string name="poster_sticker_already_clear">The background is already transparent.</string>
+    <string name="poster_sticker_no_person">No person found. The background colour is used.</string>
+    <string name="poster_sticker_empty">The sticker is empty.</string>
+    <string name="poster_sticker_failed">The background could not be removed.</string>
+</resources>

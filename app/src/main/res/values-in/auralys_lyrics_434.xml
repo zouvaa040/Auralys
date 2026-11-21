@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pemilih sumber lirik (putaran 4.3.4) -->
+    <string name="auralys_lyrics_sources_title">Sumber lirik</string>
+    <string name="auralys_lyrics_source_auto">Otomatis</string>
+    <string name="auralys_lyrics_source_auto_now">Sekarang: %s</string>
+    <string name="auralys_lyrics_source_auto_pick">Memilih yang paling cocok</string>
+    <string name="auralys_lyrics_source_word">Sinkron per kata</string>
+    <string name="auralys_lyrics_source_line">Sinkron per baris</string>
+    <string name="auralys_lyrics_source_plain">Tidak sinkron</string>
+    <string name="auralys_lyrics_source_other_version">Versi lain</string>
+    <string name="auralys_lyrics_source_loading">Mencari</string>
+    <string name="auralys_lyrics_source_not_found">Tidak ditemukan</string>
+    <string name="auralys_lyrics_source_idle">Ketuk untuk mencari</string>
+    <string name="auralys_lyrics_source_unavailable">Tidak untuk file perangkat</string>
+    <string name="auralys_lyrics_source_in_use">Dipakai</string>
+    <string name="auralys_lyrics_choose_source">Pilih sumber</string>
+
+    <!-- Waktu lirik (offset) -->
+    <string name="auralys_lyrics_timing_title">Waktu lirik</string>
+    <string name="auralys_lyrics_timing_earlier">Lebih awal</string>
+    <string name="auralys_lyrics_timing_later">Lebih lambat</string>
+    <string name="auralys_lyrics_timing_value_earlier">%s detik lebih awal</string>
+    <string name="auralys_lyrics_timing_value_later">%s detik lebih lambat</string>
+    <string name="auralys_lyrics_timing_value_zero">Tidak digeser</string>
+    <string name="auralys_lyrics_timing_hint">Atau ketuk baris yang sedang dinyanyikan</string>
+    <string name="auralys_lyrics_timing_done">Selesai</string>
+
+    <!-- Perbaikan lirik setelah tinjauan (putaran 4.3.4) -->
+    <string name="auralys_lyrics_source_previous">Lirik sebelumnya</string>
+    <string name="auralys_lyrics_source_use_anyway">Pakai tetap</string>
+    <string name="auralys_lyrics_auto_nothing">Tidak ada lirik lain yang cocok</string>
+    <string name="auralys_lyrics_refetch_nothing_new">Tidak ada lirik lain yang ditemukan</string>
+    <string name="auralys_lyrics_timing_unsynced">Waktu hanya untuk lirik yang sinkron</string>
+</resources>

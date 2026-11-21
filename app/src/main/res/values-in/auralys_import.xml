@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auralys_import_spotify">Impor dari Spotify</string>
+    <string name="auralys_import_apple_music">Impor dari Apple Music</string>
+    <string name="auralys_import_spotify_desc">Tempel tautan playlist atau album Spotify publik. Setiap lagu dicari di YouTube Music lalu disimpan ke playlist lokal baru.</string>
+    <string name="auralys_import_apple_desc">Tempel tautan playlist atau album Apple Music publik. Setiap lagu dicari di YouTube Music lalu disimpan ke playlist lokal baru.</string>
+    <string name="auralys_import_link_label">Tautan playlist</string>
+    <string name="auralys_import_paste">Tempel</string>
+    <string name="auralys_import_start">Impor</string>
+    <string name="auralys_import_close">Tutup</string>
+    <string name="auralys_import_open_playlist">Buka playlist</string>
+    <string name="auralys_import_reading">Membaca playlist…</string>
+    <string name="auralys_import_reading_full">Membaca seluruh playlist… %1$d dari %2$d</string>
+    <string name="auralys_import_reading_full_unknown">Membaca seluruh playlist… %1$d lagu</string>
+    <string name="auralys_import_matching">Mencari lagu di YouTube Music…</string>
+    <string name="auralys_import_progress">Ditemukan %1$d · diperiksa %2$d dari %3$d</string>
+    <string name="auralys_import_saving">Menyimpan playlist…</string>
+    <string name="auralys_import_done">Playlist “%1$s” dibuat dengan %2$d lagu.</string>
+    <string name="auralys_import_all_matched">Semua lagu ditemukan.</string>
+    <string name="auralys_import_unmatched">Tidak ditemukan di YouTube Music: %1$d</string>
+    <string name="auralys_import_unmatched_more">dan %1$d lainnya</string>
+    <string name="auralys_import_spotify_limit_note">Playlist lebih dari 100 lagu butuh waktu sedikit lebih lama: Auralys membuka halaman Spotify di latar belakang untuk membaca sisanya.</string>
+    <string name="auralys_import_truncated_spotify">Playlist ini mungkin berisi lebih dari 100 lagu, tapi sisanya tidak berhasil dibaca; hanya 100 lagu pertama yang diimpor.</string>
+    <string name="auralys_import_fail_timeout">Halaman Spotify terlalu lama dimuat, jadi hanya %1$d lagu pertama yang diimpor. Coba lagi dengan koneksi yang lebih stabil.</string>
+    <string name="auralys_import_fail_network">Halaman Spotify tidak bisa dibuka, jadi hanya %1$d lagu pertama yang diimpor. Periksa koneksi internet lalu coba lagi.</string>
+    <string name="auralys_import_fail_memory">Memori perangkat habis saat membaca playlist, jadi hanya %1$d lagu pertama yang diimpor. Tutup aplikasi lain lalu coba lagi.</string>
+    <string name="auralys_import_fail_page">Daftar lagu lengkap tidak bisa dibaca dari halaman Spotify (tampilannya mungkin berubah), jadi hanya %1$d lagu pertama yang diimpor.</string>
+    <string name="auralys_import_fail_unavailable">Perangkat ini tidak bisa membuka halaman Spotify di latar belakang (Android System WebView tidak tersedia), jadi hanya %1$d lagu pertama yang diimpor.</string>
+    <string name="auralys_import_diag_show">Detail teknis ▸</string>
+    <string name="auralys_import_diag_hide">Detail teknis ▾</string>
+    <string name="auralys_import_diag_copy">Salin</string>
+    <string name="auralys_import_diag_copied">Detail teknis disalin</string>
+    <string name="auralys_import_truncated">Hanya %1$d dari %2$d lagu yang dapat dibaca dari tautan ini.</string>
+    <string name="auralys_import_error_invalid">Tautan tidak dikenali. Gunakan tautan playlist atau album publik.</string>
+    <string name="auralys_import_error_fetch">Playlist tidak dapat dibaca. Periksa tautan dan koneksi.</string>
+    <string name="auralys_import_error_empty">Tidak ada lagu di playlist ini.</string>
+    <string name="auralys_import_error_no_matches">Tidak ada lagu yang ditemukan di YouTube Music.</string>
+    <string name="auralys_import_error_save">Playlist tidak dapat disimpan.</string>
+    <string name="auralys_import_cancelled">Impor dibatalkan.</string>
+    <string name="auralys_import_clipboard_empty">Papan klip kosong</string>
+</resources>

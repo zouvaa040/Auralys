@@ -1,0 +1,13 @@
+{
+  "data": {
+    "trackUnion": {
+      "__typename": "Track",
+      "canvas": {
+        "type": "VIDEO_LOOPING",
+        "url": "https://canvaz.scdn.co/upload/artist/example-clip.cnvs.mp4",
+        "fileId": "example-file-id"
+      },
+      "uri": "spotify:track:2fuYa3Lx06QQJAm0MjztKr"
+    }
+  }
+}

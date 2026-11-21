@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pratinjau kolom CSV: peran sebuah kolom -->
+    <string name="csv_role_title">Judul</string>
+    <string name="csv_role_artist">Artis</string>
+    <string name="csv_role_url">URL</string>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sync with Auralys PC (QR). Every string here belongs to the sync feature; see SYNC-MANIFEST.md -->
+    <string name="sync_pc_title">Sync with Auralys PC</string>
+
+    <string name="sync_pc_step_1">On Auralys PC, open Settings &gt; Backup &gt; Sync with phone. A QR code appears.</string>
+    <string name="sync_pc_step_2">Make sure the phone and the PC are on the same Wi-Fi, then tap Scan QR.</string>
+    <string name="sync_pc_step_3">Playlists, liked songs, saved albums and artists, play history and searches are merged on both sides. Nothing is deleted, and your YouTube Music login is not sent.</string>
+
+    <string name="sync_pc_scan">Scan QR</string>
+    <string name="sync_pc_paste">Paste code</string>
+    <string name="sync_pc_scan_prompt">Point the camera at the QR code on the PC screen</string>
+    <string name="sync_pc_camera_denied">Camera permission denied. Allow it in the phone settings or use Paste code.</string>
+    <string name="sync_pc_paste_title">Paste sync code</string>
+    <string name="sync_pc_paste_label">Code (auralys://sync…)</string>
+    <string name="sync_pc_paste_clipboard">Paste from clipboard</string>
+    <string name="sync_pc_paste_start">Start</string>
+    <string name="sync_pc_cancel">Cancel</string>
+
+    <string name="sync_pc_step_connecting">Connecting to %1$s…</string>
+    <string name="sync_pc_step_handshake">Contacting the PC…</string>
+    <string name="sync_pc_step_reading">Reading data on the phone…</string>
+    <string name="sync_pc_step_sending">Sending data to the PC…</string>
+    <string name="sync_pc_step_waiting">Waiting for confirmation on the PC. Choose Merge in the PC window.</string>
+    <string name="sync_pc_step_backup">Creating a safety backup…</string>
+    <string name="sync_pc_step_applying">Merging data from the PC…</string>
+    <string name="sync_pc_step_finishing">Finishing…</string>
+
+    <string name="sync_pc_done_title">Sync finished</string>
+    <string name="sync_pc_done_with">Merged with %1$s</string>
+    <string name="sync_pc_done_nothing">No new data, both sides are already the same.</string>
+    <string name="sync_pc_done_playlists_new">%1$d new playlists</string>
+    <string name="sync_pc_done_playlists_extended">%1$d playlists gained %2$d songs</string>
+    <string name="sync_pc_done_liked">%1$d new liked songs</string>
+    <string name="sync_pc_done_saved">%1$d new saved albums, artists and playlists</string>
+    <string name="sync_pc_done_saved_skipped">%1$d saved items skipped (cannot be displayed)</string>
+    <string name="sync_pc_done_events">%1$d new plays in the history</string>
+    <string name="sync_pc_done_searches">%1$d new searches</string>
+    <string name="sync_pc_done_songs">%1$d songs added to the database (not shown in Library)</string>
+    <string name="sync_pc_done_unresolved">%1$d entries skipped because the song info is missing</string>
+    <string name="sync_pc_backup_note">A safety backup was created before merging (%1$s) and is stored in the private app folder. Save a copy to be able to restore the data through Backup and restore.</string>
+    <string name="sync_pc_save_backup">Save a copy of the backup</string>
+    <string name="sync_pc_backup_saved">Backup copy saved</string>
+    <string name="sync_pc_backup_save_failed">Backup copy could not be saved</string>
+    <string name="sync_pc_close">Done</string>
+    <string name="sync_pc_again">Sync again</string>
+
+    <string name="sync_pc_declined">The merge was cancelled on the PC. Nothing changed on the phone.</string>
+
+    <string name="sync_pc_failed_title">Sync failed</string>
+    <string name="sync_pc_err_bad_code">This is not an Auralys PC sync code. Scan the QR shown in the sync window on the PC.</string>
+    <string name="sync_pc_err_connect">Could not connect to the PC. Check: 1) the phone and the PC are on the same Wi-Fi (not a guest network or mobile data), 2) the sync window on the PC is still open, 3) Windows Firewall allows Auralys (choose Allow if asked), 4) the VPN on the phone is off.</string>
+    <string name="sync_pc_err_closed">The PC closed the connection. The QR may have expired (valid for 3 minutes) or the sync window was closed. Open a new QR on the PC, then scan again.</string>
+    <string name="sync_pc_err_timeout">The PC did not respond in time. Make sure the sync window is still open, then try again.</string>
+    <string name="sync_pc_err_version">The sync versions on the PC and the phone differ. Update Auralys on both.</string>
+    <string name="sync_pc_err_pc">The PC reported a problem: %1$s</string>
+    <string name="sync_pc_err_protocol">The PC sent an unexpected reply. Make sure both apps are up to date, then try again.</string>
+    <string name="sync_pc_err_local">An error occurred on the phone while reading or merging data. The merge is applied in one step, so a failed step changes nothing. Detail: %1$s</string>
+    <string name="sync_pc_err_network">Connection lost. Check the Wi-Fi, then try again.</string>
+</resources>

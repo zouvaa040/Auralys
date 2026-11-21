@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dynamic_island_content_cover_lyric">Sampul dan baris lirik</string>
+    <string name="dynamic_island_show_lyrics">Tampilkan lirik</string>
+    <string name="dynamic_island_lyrics_loading">Memuat lirik...</string>
+    <string name="dynamic_island_lyrics_plain">Lirik lagu ini belum bertanda waktu.</string>
+    <string name="dynamic_island_lyrics_none">Lagu ini belum punya lirik berjalan.</string>
+    <string name="dynamic_island_content_lyric_only">Lirik saja</string>
+    <string name="player_output_device">Perangkat keluaran</string>
+    <string name="keep_playing_on_focus_loss">Tetap putar saat bermain game</string>
+    <string name="island_accessibility_label">Auralys Dynamic Island</string>
+    <string name="island_accessibility_description">Hanya dipakai untuk menampilkan Dynamic Island Auralys di depan status bar. Layanan ini tidak membaca layar, tidak menerima peristiwa, dan tidak mengendalikan aplikasi lain.</string>
+    <string name="dynamic_island_service">Layanan aksesibilitas</string>
+    <string name="dynamic_island_service_on">Aktif. Pulau berada di depan status bar</string>
+    <string name="dynamic_island_service_off">Belum aktif. Nyalakan Auralys Dynamic Island di Pengaturan > Aksesibilitas. Jika terkunci: Info aplikasi > titik tiga > Izinkan pengaturan terbatas</string>
+    <string name="dynamic_island_placement">Posisi</string>
+    <string name="dynamic_island_placement_floating">Mengambang</string>
+    <string name="dynamic_island_placement_attached">Menempel di tepi atas</string>
+    <string name="dynamic_island_lyric_camera">Sesuaikan lirik dengan kamera</string>
+    <string name="dynamic_island_sample_lyric">Contoh baris lirik yang cukup panjang sampai ke tengah</string>
+    <string name="dynamic_island_camera_gap">Lebar celah kamera</string>
+</resources>

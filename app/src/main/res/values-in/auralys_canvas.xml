@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mode ambient -->
+    <string name="ambient_mode">Mode ambient</string>
+    <string name="ambient_mode_desc">Lagu yang sedang diputar ditampilkan layar penuh dengan tenang</string>
+    <string name="ambient_mode_close">Tutup mode ambient</string>
+    <string name="ambient_mode_play">Putar</string>
+    <string name="ambient_mode_pause">Jeda</string>
+    <string name="ambient_mode_next">Berikutnya</string>
+    <string name="ambient_mode_previous">Sebelumnya</string>
+
+    <!-- Sampul animasi -->
+    <string name="animated_artwork">Sampul animasi</string>
+    <string name="animated_artwork_desc">Video pendek tanpa suara diputar berulang di atas sampul pada pemutar penuh jika tersedia. Data dan baterai tambahan akan terpakai.</string>
+    <string name="animated_artwork_not_recommended">Tidak disarankan untuk perangkat ini</string>
+</resources>

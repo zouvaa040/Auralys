@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tampilan lirik: buram pada baris di sekitar baris yang sedang dinyanyikan -->
+    <string name="auralys_lyrics_blur">Buramkan baris lain</string>
+</resources>

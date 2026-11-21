@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CSV column preview: the role of a column (REVIEW-2026-11-07 F4) -->
+    <string name="csv_role_title">Title</string>
+    <string name="csv_role_artist">Artist</string>
+    <string name="csv_role_url">URL</string>
+</resources>

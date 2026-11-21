@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- New styles and presets -->
+    <string name="dynamic_island_style_liquid">Kaca cair</string>
+    <string name="dynamic_island_style_liquid_desc">Kaca bening di atas sampul yang diburamkan, seperti bilah navigasi, dengan tepi yang membias dan pinggir yang bercahaya</string>
+    <string name="dynamic_island_style_custom">Warna sendiri</string>
+    <string name="dynamic_island_style_custom_desc">Pilih dua warna sesukamu</string>
+    <string name="dynamic_island_preset_liquid">Cair</string>
+    <string name="dynamic_island_preset_neon">Neon</string>
+
+    <!-- Appearance -->
+    <string name="dynamic_island_blur">Blur sampul</string>
+    <string name="dynamic_island_shine">Kilau kaca</string>
+    <string name="dynamic_island_custom_top">Warna atas</string>
+    <string name="dynamic_island_custom_bottom">Warna bawah</string>
+    <string name="dynamic_island_text_color">Warna teks</string>
+    <string name="dynamic_island_accent_color">Warna aksen</string>
+    <string name="dynamic_island_accent_color_desc">Equalizer, bilah progres, dan pendar</string>
+    <string name="dynamic_island_border_width">Tebal garis tepi</string>
+    <string name="dynamic_island_border_color">Warna garis tepi</string>
+    <string name="dynamic_island_color_auto">Otomatis</string>
+    <string name="dynamic_island_border_none">Tanpa garis tepi</string>
+    <string name="dynamic_island_border_value">%1$d dp</string>
+
+    <!-- Expanded card -->
+    <string name="dynamic_island_expanded_width">Lebar kartu</string>
+    <string name="dynamic_island_expanded_roundness">Kelengkungan kartu</string>
+    <string name="dynamic_island_follow_roundness">Sama dengan kelengkungan kapsul</string>
+    <string name="dynamic_island_cover_size">Ukuran sampul</string>
+    <string name="dynamic_island_text_size">Ukuran teks</string>
+
+    <!-- Colour picker -->
+    <string name="dynamic_island_hue">Rona</string>
+    <string name="dynamic_island_saturation">Saturasi</string>
+    <string name="dynamic_island_brightness">Kecerahan</string>
+    <string name="dynamic_island_color_use_auto">Pakai otomatis</string>
+
+    <!-- Position editor -->
+    <string name="dynamic_island_place">Atur di layar</string>
+    <string name="dynamic_island_place_desc">Seret island ke tempat yang kamu mau pada tiruan layar HP-mu</string>
+    <string name="dynamic_island_place_hint">Seret island-nya. Otomatis menempel ke tengah dan ke kamera.</string>
+</resources>
