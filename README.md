@@ -42,11 +42,7 @@ the debug key.
 
 ## Credits
 
-- [Metrolist](https://github.com/MetrolistGroup/Metrolist) and its contributors, and the projects Metrolist builds on
-  ([InnerTune](https://github.com/z-huang/InnerTune), [OuterTune](https://github.com/DD3Boh/OuterTune))
-- [Kyant0/backdrop](https://github.com/Kyant0/AndroidLiquidGlass) (Apache 2.0), [Convx](https://github.com/cosmictaserdev-creator/Convx)
-  and [BitChord](https://github.com/kushagrasinghx/BitChord) (GPL-3.0), [MODNet](https://github.com/ZHKKKe/MODNet) (Apache 2.0):
-  see [NOTICE](NOTICE) for what was taken from each
+- [Metrolist](https://github.com/MetrolistGroup/Metrolist) and its contributors
 
 ## Disclaimer
 
