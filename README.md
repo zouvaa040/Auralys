@@ -7,7 +7,7 @@ A YouTube Music client for Android, made by DAPZ.DEV.
 Auralys is a fork of [Metrolist](https://github.com/MetrolistGroup/Metrolist) and, like Metrolist, is free software under the
 [GNU General Public License v3.0](LICENSE). Parts taken from other open-source projects are listed in [NOTICE](NOTICE).
 
-Download: https://support-admin-kappa.vercel.app/
+Download: https://auralys.my.id/
 
 ## What Auralys adds
 
